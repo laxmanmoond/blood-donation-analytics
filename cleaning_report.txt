@@ -1,0 +1,32 @@
+Blood Donation Analytics — Data Cleaning Pipeline
+Run timestamp : 2026-05-11 10:59:38
+
+============================================================
+  DONORS CLEANING
+============================================================
+Original shape: (5100, 11)
+Duplicates removed : 100
+Invalid blood_group rows dropped : 0
+Out-of-range age rows dropped : 0
+Future last_donation_date rows dropped : 0
+Missing availability_status (filled 'Unknown') : 221
+Out-of-India coordinate rows dropped : 0
+Final shape: (5000, 11)
+Rows retained : 98.0%
+
+============================================================
+  BLOOD REQUESTS CLEANING
+============================================================
+Original shape: (2000, 7)
+Duplicates removed : 0
+Invalid blood_group rows dropped : 0
+Invalid units_required rows dropped : 0
+Final shape: (2000, 7)
+
+============================================================
+  DONATION RECORDS CLEANING
+============================================================
+Original shape: (3500, 6)
+Duplicates removed : 0
+Orphaned donor_id rows dropped : 0
+Final shape: (3500, 6)

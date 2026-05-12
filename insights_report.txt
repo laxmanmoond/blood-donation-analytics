@@ -1,0 +1,34 @@
+BLOOD DONATION ANALYTICS — INSIGHTS REPORT
+=======================================================
+
+DONORS
+  Total Donors           : 5,000
+  Available Donors       : 4,799
+  Average Age            : 41.5
+  Top Blood Group        : O+
+  Top Donor City         : Tiruchirappalli
+
+BLOOD REQUESTS
+  Total Requests         : 2,000
+  Total Units Requested  : 11,261
+  Critical Requests      : 392
+  Most Demanded Group    : O+
+
+DONATIONS
+  Total Donation Events  : 3,500
+  Total Units Donated    : 6,965
+  Unique Active Donors   : 2,329
+
+SUPPLY vs DEMAND
+             units_supplied  units_demanded  surplus_deficit   status
+blood_group                                                          
+A+                     1550            2707            -1157  DEFICIT
+A-                      333             493             -160  DEFICIT
+AB+                     469             787             -318  DEFICIT
+AB-                     195             268              -73  DEFICIT
+B+                     1660            2742            -1082  DEFICIT
+B-                      117             225             -108  DEFICIT
+O+                     2237            3408            -1171  DEFICIT
+O-                      404             631             -227  DEFICIT
+
+  TOTAL DEFICIT          : 4,296 units

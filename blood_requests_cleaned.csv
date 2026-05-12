@@ -1,0 +1,2001 @@
+request_id,hospital_name,blood_group,units_required,urgency_level,city,request_date
+R00001,Narayana Health,O+,3,Medium,Delhi,2024-11-01
+R00002,Safdarjung Hospital,B+,3,Medium,Bangalore,2024-02-09
+R00003,KEM Hospital,O+,3,High,Kolkata,2024-06-06
+R00004,Jehangir Hospital,O+,2,Medium,Jaipur,2024-06-23
+R00005,Ruby Hall Clinic,B+,5,Critical,Kolkata,2024-07-05
+R00006,Medanta,B+,3,Low,Bangalore,2024-12-22
+R00007,Narayana Health,B+,1,High,Coimbatore,2023-07-07
+R00008,Manipal Hospital,O+,1,Critical,Bangalore,2023-02-21
+R00009,Max Super Speciality,O+,3,Critical,Mumbai,2024-04-16
+R00010,Lilavati Hospital,A-,2,Low,Indore,2024-12-05
+R00011,Max Super Speciality,B+,2,High,Delhi,2024-06-25
+R00012,Christian Medical College,B+,1,High,Thane,2023-03-22
+R00013,Aster CMI,A+,2,High,Mumbai,2023-04-27
+R00014,Lilavati Hospital,A+,2,Medium,Chennai,2023-04-04
+R00015,Deenanath Mangeshkar,O+,2,High,Nagpur,2024-11-11
+R00016,Apollo Hospital,B+,4,Low,Agra,2024-02-29
+R00017,Deenanath Mangeshkar,O+,1,High,Mumbai,2024-12-23
+R00018,Fortis Healthcare,B+,1,Low,Bhopal,2024-10-10
+R00019,Christian Medical College,AB-,1,High,Mumbai,2023-10-24
+R00020,Medanta,O-,5,High,Bhopal,2024-09-23
+R00021,Apollo Hospital,O+,2,High,Nagpur,2023-01-16
+R00022,Christian Medical College,A-,2,High,Ahmedabad,2024-12-10
+R00023,Kokilaben Dhirubhai Ambani,AB-,1,Medium,Delhi,2023-03-29
+R00024,AIIMS,A-,1,Medium,Mumbai,2024-04-27
+R00025,Narayana Health,O-,2,Critical,Visakhapatnam,2023-02-03
+R00026,Max Super Speciality,A+,3,High,Hyderabad,2023-03-13
+R00027,Jehangir Hospital,O+,1,Low,Coimbatore,2024-10-04
+R00028,Kokilaben Dhirubhai Ambani,AB+,4,Low,Kolkata,2023-07-15
+R00029,Jehangir Hospital,B+,1,High,Kolkata,2024-03-23
+R00030,Ruby Hall Clinic,O+,1,Medium,Agra,2023-12-07
+R00031,Narayana Health,A-,2,High,Mumbai,2023-07-03
+R00032,KEM Hospital,AB+,2,Critical,Mumbai,2023-09-27
+R00033,Max Super Speciality,B+,3,High,Nagpur,2023-09-22
+R00034,Narayana Health,A+,3,Low,Indore,2023-04-29
+R00035,Apollo Hospital,A+,5,Medium,Mumbai,2024-07-23
+R00036,Rajiv Gandhi Government Hospital,O+,1,High,Surat,2023-12-29
+R00037,Fortis Healthcare,B-,2,Medium,Kolkata,2023-11-30
+R00038,Manipal Hospital,A-,3,Low,Mumbai,2023-10-13
+R00039,Apollo Hospital,O+,2,Critical,Indore,2024-05-20
+R00040,Max Super Speciality,A+,1,Medium,Hyderabad,2023-12-03
+R00041,Jehangir Hospital,O-,2,Low,Surat,2023-07-01
+R00042,Manipal Hospital,B+,2,High,Nashik,2023-10-28
+R00043,Manipal Hospital,B+,5,Low,Pune,2023-10-29
+R00044,AIIMS,B+,2,Critical,Chennai,2024-07-05
+R00045,Lilavati Hospital,A+,2,Medium,Chennai,2023-09-29
+R00046,Deenanath Mangeshkar,O+,2,Medium,Delhi,2024-09-02
+R00047,Deenanath Mangeshkar,B+,4,High,Surat,2023-05-05
+R00048,AIIMS,B+,3,Low,Mumbai,2023-01-15
+R00049,Safdarjung Hospital,O-,5,Critical,Hyderabad,2024-12-28
+R00050,Medanta,B+,2,Low,Chennai,2023-09-14
+R00051,Jehangir Hospital,B+,5,Medium,Ahmedabad,2024-06-26
+R00052,AIIMS,B+,3,High,Mumbai,2023-05-15
+R00053,Narayana Health,B-,3,Critical,Bhopal,2023-08-27
+R00054,Manipal Hospital,O-,1,High,Delhi,2024-08-29
+R00055,Rajiv Gandhi Government Hospital,O+,2,High,Nashik,2024-09-29
+R00056,Fortis Healthcare,B+,5,Medium,Coimbatore,2023-10-15
+R00057,Wockhardt,O+,3,Low,Mumbai,2023-02-16
+R00058,Ruby Hall Clinic,O+,3,Low,Thane,2024-10-05
+R00059,Medanta,B-,3,High,Rajkot,2023-04-03
+R00060,Safdarjung Hospital,O+,1,Critical,Indore,2023-03-04
+R00061,Manipal Hospital,B-,2,Low,Mumbai,2023-02-09
+R00062,Medanta,A+,3,Medium,Mumbai,2024-02-18
+R00063,Lilavati Hospital,A+,5,Low,Ahmedabad,2023-03-05
+R00064,Max Super Speciality,O+,2,High,Lucknow,2024-09-29
+R00065,Jehangir Hospital,O+,1,Medium,Agra,2024-03-22
+R00066,Ruby Hall Clinic,O-,5,Medium,Patna,2024-07-08
+R00067,Wockhardt,O-,1,Low,Ahmedabad,2023-05-16
+R00068,Fortis Healthcare,A+,3,High,Kolkata,2023-05-28
+R00069,Apollo Hospital,B+,2,High,Patna,2024-07-16
+R00070,Sir Ganga Ram Hospital,B-,4,Low,Jaipur,2024-04-19
+R00071,Safdarjung Hospital,B+,5,Medium,Patna,2023-04-10
+R00072,Fortis Healthcare,A+,3,High,Bangalore,2023-02-27
+R00073,Lilavati Hospital,A-,4,Medium,Hyderabad,2023-10-22
+R00074,Apollo Hospital,A+,2,Critical,Thane,2023-01-28
+R00075,Jehangir Hospital,B+,1,Medium,Kanpur,2024-10-27
+R00076,Fortis Healthcare,O-,2,Medium,Kanpur,2024-05-23
+R00077,Amrita Institute of Medical Sciences,A+,4,High,Visakhapatnam,2024-01-17
+R00078,Aster CMI,AB+,3,Low,Chennai,2023-02-22
+R00079,Rajiv Gandhi Government Hospital,B+,3,Medium,Mumbai,2023-05-10
+R00080,Wockhardt,B+,1,High,Delhi,2023-09-27
+R00081,Fortis Healthcare,O+,5,Critical,Surat,2023-11-25
+R00082,Rajiv Gandhi Government Hospital,O+,2,Medium,Lucknow,2023-12-02
+R00083,Safdarjung Hospital,B+,2,Medium,Agra,2023-01-01
+R00084,KEM Hospital,A+,2,Critical,Mumbai,2023-06-18
+R00085,Apollo Hospital,B+,2,Critical,Delhi,2023-07-08
+R00086,Fortis Healthcare,A+,1,High,Pune,2024-01-14
+R00087,Safdarjung Hospital,A+,2,Medium,Bangalore,2024-03-24
+R00088,Max Super Speciality,B+,1,Low,Rajkot,2024-01-06
+R00089,Kokilaben Dhirubhai Ambani,A+,1,Critical,Nagpur,2024-06-27
+R00090,Manipal Hospital,O+,1,Medium,Nagpur,2023-04-15
+R00091,Fortis Healthcare,B+,6,Medium,Bhopal,2024-10-09
+R00092,Amrita Institute of Medical Sciences,B+,5,High,Ahmedabad,2024-08-17
+R00093,Amrita Institute of Medical Sciences,A+,1,Medium,Thane,2024-02-21
+R00094,Kokilaben Dhirubhai Ambani,O+,2,Medium,Pune,2024-08-20
+R00095,Manipal Hospital,A+,3,High,Bhopal,2024-08-03
+R00096,Wockhardt,A+,2,High,Delhi,2023-02-22
+R00097,Max Super Speciality,A+,1,High,Mumbai,2023-11-05
+R00098,Aster CMI,AB+,2,Low,Visakhapatnam,2023-05-21
+R00099,Christian Medical College,O+,2,High,Pune,2024-02-03
+R00100,Sir Ganga Ram Hospital,O-,1,High,Hyderabad,2023-12-25
+R00101,Kokilaben Dhirubhai Ambani,B+,2,High,Nagpur,2024-09-02
+R00102,Christian Medical College,B+,2,Critical,Indore,2024-07-10
+R00103,Max Super Speciality,O+,2,Medium,Bangalore,2024-10-30
+R00104,Lilavati Hospital,O+,6,Medium,Pune,2023-08-22
+R00105,Sir Ganga Ram Hospital,A+,1,High,Delhi,2023-06-09
+R00106,Max Super Speciality,AB+,3,High,Kolkata,2023-09-03
+R00107,Manipal Hospital,B+,2,High,Indore,2024-09-17
+R00108,Jehangir Hospital,B+,5,High,Mumbai,2024-07-13
+R00109,Manipal Hospital,A+,2,Medium,Hyderabad,2024-05-26
+R00110,Amrita Institute of Medical Sciences,B+,2,High,Chennai,2024-06-02
+R00111,Rajiv Gandhi Government Hospital,A+,1,Critical,Ahmedabad,2023-07-30
+R00112,Sir Ganga Ram Hospital,B+,1,Low,Pune,2023-05-31
+R00113,Christian Medical College,A+,2,High,Pune,2024-09-15
+R00114,Wockhardt,AB+,1,Medium,Kolkata,2024-04-22
+R00115,KEM Hospital,A+,3,Low,Ahmedabad,2024-07-30
+R00116,Ruby Hall Clinic,O+,2,Low,Lucknow,2023-07-12
+R00117,AIIMS,B+,5,Medium,Surat,2024-10-27
+R00118,Ruby Hall Clinic,A+,4,Medium,Pune,2024-01-23
+R00119,Rajiv Gandhi Government Hospital,A+,3,High,Agra,2023-06-13
+R00120,Kokilaben Dhirubhai Ambani,B+,2,Medium,Patna,2024-07-11
+R00121,Deenanath Mangeshkar,B-,3,High,Mumbai,2023-03-18
+R00122,Deenanath Mangeshkar,O+,6,High,Bangalore,2024-09-16
+R00123,KEM Hospital,A+,1,Medium,Bangalore,2023-03-05
+R00124,Kokilaben Dhirubhai Ambani,B-,2,Medium,Mumbai,2023-12-21
+R00125,Safdarjung Hospital,B-,1,High,Chennai,2023-10-06
+R00126,Deenanath Mangeshkar,B+,5,Medium,Agra,2024-01-22
+R00127,AIIMS,A+,3,Medium,Ahmedabad,2023-08-10
+R00128,Narayana Health,O+,1,Low,Mumbai,2024-02-29
+R00129,Narayana Health,B-,1,Critical,Jaipur,2024-10-12
+R00130,Sir Ganga Ram Hospital,B-,2,High,Kolkata,2024-12-20
+R00131,Lilavati Hospital,O+,2,Critical,Rajkot,2024-12-23
+R00132,Rajiv Gandhi Government Hospital,O+,1,Low,Nagpur,2024-06-24
+R00133,Rajiv Gandhi Government Hospital,O+,2,Medium,Mumbai,2023-11-24
+R00134,AIIMS,O+,2,High,Bangalore,2023-07-25
+R00135,Aster CMI,O+,2,Critical,Coimbatore,2024-11-15
+R00136,Lilavati Hospital,AB+,1,Critical,Kolkata,2023-09-16
+R00137,Fortis Healthcare,A+,2,Low,Rajkot,2023-08-20
+R00138,KEM Hospital,B+,2,Critical,Kolkata,2023-02-02
+R00139,Kokilaben Dhirubhai Ambani,B+,5,Medium,Agra,2024-02-15
+R00140,Ruby Hall Clinic,B+,1,Medium,Hyderabad,2024-02-21
+R00141,Jehangir Hospital,B+,2,Critical,Kanpur,2023-11-21
+R00142,Manipal Hospital,O+,2,Medium,Agra,2023-11-04
+R00143,Medanta,B+,3,Critical,Chennai,2024-09-16
+R00144,Rajiv Gandhi Government Hospital,A+,3,Critical,Chennai,2024-03-06
+R00145,Max Super Speciality,A+,1,High,Surat,2023-09-24
+R00146,Jehangir Hospital,O+,3,Medium,Kanpur,2024-07-24
+R00147,Safdarjung Hospital,AB+,3,Medium,Rajkot,2023-07-27
+R00148,Kokilaben Dhirubhai Ambani,A+,2,Medium,Ahmedabad,2024-10-24
+R00149,AIIMS,B-,1,High,Chennai,2024-03-17
+R00150,Fortis Healthcare,A-,3,High,Ahmedabad,2024-07-21
+R00151,Narayana Health,O+,4,Medium,Kolkata,2024-12-23
+R00152,Wockhardt,B+,1,High,Ahmedabad,2024-10-03
+R00153,Jehangir Hospital,A+,4,Low,Mumbai,2024-03-14
+R00154,AIIMS,A+,2,Medium,Lucknow,2024-03-20
+R00155,Fortis Healthcare,O+,3,High,Pune,2023-01-07
+R00156,Narayana Health,O+,2,High,Hyderabad,2023-11-27
+R00157,Rajiv Gandhi Government Hospital,A+,5,Low,Kanpur,2023-04-09
+R00158,Narayana Health,A+,4,Medium,Visakhapatnam,2024-05-17
+R00159,Aster CMI,O+,1,Medium,Delhi,2024-10-24
+R00160,KEM Hospital,O+,5,Medium,Hyderabad,2024-08-07
+R00161,Sir Ganga Ram Hospital,A+,1,High,Ludhiana,2024-05-26
+R00162,Christian Medical College,O+,5,Critical,Ahmedabad,2024-02-14
+R00163,Ruby Hall Clinic,AB+,4,Critical,Chennai,2024-11-26
+R00164,Kokilaben Dhirubhai Ambani,B+,1,Critical,Delhi,2023-08-07
+R00165,Medanta,A+,1,Medium,Mumbai,2023-10-04
+R00166,Narayana Health,O+,4,Medium,Chennai,2023-09-09
+R00167,Jehangir Hospital,B+,3,Low,Indore,2023-05-24
+R00168,Narayana Health,B+,2,Medium,Mumbai,2023-07-17
+R00169,Apollo Hospital,A+,1,High,Visakhapatnam,2024-02-26
+R00170,Safdarjung Hospital,B+,3,High,Pune,2024-07-16
+R00171,Aster CMI,O+,3,Medium,Jaipur,2024-05-20
+R00172,Wockhardt,O+,5,High,Mumbai,2024-11-20
+R00173,Lilavati Hospital,B+,1,Low,Thane,2023-06-18
+R00174,Apollo Hospital,O+,5,High,Ahmedabad,2023-08-25
+R00175,Deenanath Mangeshkar,A+,3,High,Coimbatore,2024-05-21
+R00176,Christian Medical College,A+,3,High,Indore,2023-05-29
+R00177,Narayana Health,B+,5,Critical,Chennai,2024-05-25
+R00178,Manipal Hospital,O+,2,Medium,Udaipur,2024-04-10
+R00179,Rajiv Gandhi Government Hospital,A-,1,Low,Ahmedabad,2024-09-27
+R00180,Narayana Health,B+,1,Medium,Nagpur,2024-11-08
+R00181,AIIMS,AB+,1,Medium,Ahmedabad,2024-11-05
+R00182,Amrita Institute of Medical Sciences,A-,2,Medium,Chennai,2023-06-27
+R00183,Manipal Hospital,B+,1,Medium,Bangalore,2023-09-23
+R00184,Rajiv Gandhi Government Hospital,B+,6,Critical,Chennai,2024-09-10
+R00185,KEM Hospital,O+,3,Critical,Ludhiana,2023-10-19
+R00186,Christian Medical College,B+,1,Medium,Lucknow,2024-08-09
+R00187,Kokilaben Dhirubhai Ambani,O+,3,High,Bhopal,2023-08-23
+R00188,Manipal Hospital,O-,6,High,Ahmedabad,2024-10-28
+R00189,Deenanath Mangeshkar,A-,3,Medium,Delhi,2023-02-27
+R00190,AIIMS,O+,5,High,Mumbai,2023-08-10
+R00191,Aster CMI,AB-,5,Medium,Hyderabad,2023-09-02
+R00192,Amrita Institute of Medical Sciences,O+,1,Medium,Thane,2023-11-30
+R00193,Manipal Hospital,O+,2,Critical,Udaipur,2023-05-07
+R00194,Narayana Health,A+,3,Critical,Mumbai,2024-02-07
+R00195,Kokilaben Dhirubhai Ambani,A+,4,Low,Surat,2023-09-20
+R00196,Deenanath Mangeshkar,A+,1,Critical,Kolkata,2024-04-20
+R00197,Wockhardt,B+,5,Medium,Visakhapatnam,2024-09-28
+R00198,Sir Ganga Ram Hospital,O+,1,High,Lucknow,2024-01-30
+R00199,Manipal Hospital,O+,2,Medium,Ludhiana,2023-07-27
+R00200,KEM Hospital,O+,1,Medium,Mumbai,2024-09-12
+R00201,Lilavati Hospital,B+,2,Low,Mumbai,2024-10-18
+R00202,Sir Ganga Ram Hospital,O+,3,Medium,Kolkata,2023-06-16
+R00203,Max Super Speciality,A+,4,High,Bhopal,2024-08-02
+R00204,Christian Medical College,A+,2,High,Bangalore,2024-11-26
+R00205,Manipal Hospital,B+,2,High,Kolkata,2024-08-05
+R00206,Jehangir Hospital,AB+,4,High,Delhi,2023-04-14
+R00207,Medanta,O+,2,High,Hyderabad,2023-11-18
+R00208,Max Super Speciality,B-,2,High,Visakhapatnam,2024-05-20
+R00209,Deenanath Mangeshkar,O-,3,Medium,Bangalore,2023-03-14
+R00210,Narayana Health,O+,4,High,Mumbai,2024-10-18
+R00211,Max Super Speciality,A+,4,High,Ahmedabad,2024-03-09
+R00212,Apollo Hospital,A+,4,High,Lucknow,2023-01-21
+R00213,Christian Medical College,A-,2,Low,Kolkata,2024-09-17
+R00214,Fortis Healthcare,O+,4,High,Kolkata,2024-04-20
+R00215,KEM Hospital,O+,5,Critical,Lucknow,2023-08-21
+R00216,Amrita Institute of Medical Sciences,B+,3,High,Lucknow,2023-04-08
+R00217,Amrita Institute of Medical Sciences,B+,1,Medium,Bangalore,2024-01-28
+R00218,Medanta,B-,3,Low,Chennai,2024-12-01
+R00219,Medanta,O+,1,Low,Kolkata,2024-01-30
+R00220,AIIMS,B+,1,Low,Surat,2023-07-19
+R00221,Safdarjung Hospital,A+,2,Low,Delhi,2023-07-31
+R00222,Sir Ganga Ram Hospital,B+,3,High,Mumbai,2024-09-09
+R00223,Kokilaben Dhirubhai Ambani,A+,4,Medium,Lucknow,2024-09-15
+R00224,Kokilaben Dhirubhai Ambani,B-,2,Medium,Jaipur,2024-11-06
+R00225,Ruby Hall Clinic,O+,1,High,Coimbatore,2024-10-29
+R00226,Manipal Hospital,A-,4,High,Delhi,2024-08-11
+R00227,Lilavati Hospital,O+,3,High,Surat,2024-04-06
+R00228,Aster CMI,AB-,3,Low,Hyderabad,2023-03-02
+R00229,Apollo Hospital,A+,5,Critical,Delhi,2023-05-02
+R00230,Rajiv Gandhi Government Hospital,B+,2,Critical,Kolkata,2023-01-20
+R00231,Jehangir Hospital,O+,6,Critical,Bangalore,2024-02-29
+R00232,Ruby Hall Clinic,B+,4,Low,Ahmedabad,2024-04-15
+R00233,Lilavati Hospital,A+,2,Critical,Kanpur,2023-10-04
+R00234,Wockhardt,O-,2,High,Mumbai,2024-02-06
+R00235,Ruby Hall Clinic,B+,2,Medium,Hyderabad,2024-10-19
+R00236,Rajiv Gandhi Government Hospital,A+,2,High,Delhi,2024-10-20
+R00237,KEM Hospital,B+,2,Critical,Indore,2024-03-19
+R00238,Lilavati Hospital,O+,1,Medium,Nagpur,2023-09-05
+R00239,Medanta,B+,1,Medium,Vadodara,2024-12-20
+R00240,Ruby Hall Clinic,O+,6,High,Lucknow,2023-04-11
+R00241,Apollo Hospital,O+,2,Medium,Visakhapatnam,2023-08-14
+R00242,Apollo Hospital,A+,6,Medium,Patna,2024-09-02
+R00243,Manipal Hospital,O+,3,Critical,Mumbai,2024-03-03
+R00244,Wockhardt,AB-,4,Medium,Pune,2023-04-25
+R00245,Max Super Speciality,A+,2,Critical,Patna,2024-02-12
+R00246,Aster CMI,O+,3,High,Chennai,2023-03-01
+R00247,Rajiv Gandhi Government Hospital,AB-,2,High,Delhi,2024-08-10
+R00248,Jehangir Hospital,AB+,2,Medium,Delhi,2023-10-19
+R00249,Deenanath Mangeshkar,O+,2,High,Lucknow,2024-07-16
+R00250,KEM Hospital,A+,1,Medium,Mumbai,2024-09-11
+R00251,Rajiv Gandhi Government Hospital,B-,2,Medium,Nagpur,2023-11-15
+R00252,Sir Ganga Ram Hospital,B+,2,Medium,Kolkata,2023-09-20
+R00253,Jehangir Hospital,O+,6,High,Rajkot,2024-07-04
+R00254,Lilavati Hospital,B+,1,Medium,Bangalore,2024-12-13
+R00255,Aster CMI,O+,2,Low,Mumbai,2023-03-08
+R00256,Sir Ganga Ram Hospital,B+,4,Low,Jaipur,2023-04-29
+R00257,AIIMS,B+,1,High,Bangalore,2023-06-05
+R00258,Kokilaben Dhirubhai Ambani,O+,1,High,Chennai,2023-03-09
+R00259,Narayana Health,O-,5,Medium,Pune,2024-02-20
+R00260,Lilavati Hospital,O+,2,High,Bhopal,2023-05-02
+R00261,Medanta,B-,3,Medium,Hyderabad,2024-11-17
+R00262,Jehangir Hospital,B+,3,Medium,Surat,2024-08-06
+R00263,Amrita Institute of Medical Sciences,O+,1,Critical,Pune,2023-05-01
+R00264,Christian Medical College,O+,4,Critical,Nagpur,2024-01-26
+R00265,Jehangir Hospital,AB+,3,High,Agra,2023-11-08
+R00266,Safdarjung Hospital,O+,1,Critical,Bangalore,2024-11-29
+R00267,Rajiv Gandhi Government Hospital,AB+,3,Low,Indore,2023-06-09
+R00268,Amrita Institute of Medical Sciences,O+,6,High,Udaipur,2023-03-16
+R00269,Apollo Hospital,B-,3,Low,Thane,2023-02-25
+R00270,Jehangir Hospital,O+,4,Medium,Chennai,2024-10-17
+R00271,AIIMS,O+,2,Medium,Vadodara,2023-11-12
+R00272,Rajiv Gandhi Government Hospital,B+,4,Medium,Patna,2023-04-16
+R00273,Jehangir Hospital,A-,5,Medium,Bhopal,2023-01-03
+R00274,Wockhardt,A+,3,High,Pune,2024-06-15
+R00275,Rajiv Gandhi Government Hospital,A+,2,Medium,Surat,2024-10-25
+R00276,Medanta,B+,2,Critical,Rajkot,2024-05-10
+R00277,AIIMS,A+,3,Medium,Bangalore,2024-01-10
+R00278,Safdarjung Hospital,B+,3,High,Ahmedabad,2024-08-26
+R00279,Deenanath Mangeshkar,B+,2,Medium,Delhi,2023-11-08
+R00280,KEM Hospital,A-,5,High,Mumbai,2023-12-21
+R00281,AIIMS,AB+,1,Low,Ahmedabad,2023-02-08
+R00282,Amrita Institute of Medical Sciences,A+,4,Low,Bhopal,2023-09-26
+R00283,Rajiv Gandhi Government Hospital,O+,1,High,Chennai,2024-12-15
+R00284,KEM Hospital,O+,1,Medium,Hyderabad,2024-03-08
+R00285,Sir Ganga Ram Hospital,O+,3,High,Nagpur,2023-09-28
+R00286,Apollo Hospital,A+,1,High,Thane,2024-06-19
+R00287,Kokilaben Dhirubhai Ambani,B+,4,Medium,Patna,2024-09-08
+R00288,Amrita Institute of Medical Sciences,O-,2,Low,Ahmedabad,2023-08-04
+R00289,Medanta,O+,5,High,Rajkot,2023-09-12
+R00290,Amrita Institute of Medical Sciences,B+,2,Critical,Hyderabad,2023-08-09
+R00291,Manipal Hospital,A+,3,Medium,Hyderabad,2023-11-24
+R00292,Manipal Hospital,A+,1,High,Delhi,2024-12-16
+R00293,Jehangir Hospital,O+,2,High,Hyderabad,2024-08-12
+R00294,Wockhardt,B+,1,High,Pune,2023-08-17
+R00295,KEM Hospital,O+,1,Low,Bangalore,2023-11-30
+R00296,Fortis Healthcare,A+,2,Medium,Thane,2023-10-27
+R00297,Wockhardt,B+,2,Medium,Delhi,2024-01-10
+R00298,Apollo Hospital,O+,4,Low,Pune,2024-04-07
+R00299,Deenanath Mangeshkar,AB+,3,High,Delhi,2024-06-02
+R00300,Manipal Hospital,B+,4,Critical,Kolkata,2024-07-05
+R00301,AIIMS,A+,6,Low,Delhi,2024-12-24
+R00302,Wockhardt,A+,1,Critical,Ahmedabad,2023-03-28
+R00303,Narayana Health,O+,4,Low,Nashik,2023-08-09
+R00304,Rajiv Gandhi Government Hospital,O+,5,Medium,Patna,2024-03-30
+R00305,Jehangir Hospital,B-,1,Medium,Visakhapatnam,2024-12-14
+R00306,Christian Medical College,B+,2,Critical,Bangalore,2024-08-27
+R00307,Lilavati Hospital,O+,2,Medium,Mumbai,2023-12-07
+R00308,Medanta,O+,3,Medium,Jaipur,2023-03-19
+R00309,Ruby Hall Clinic,O-,4,High,Indore,2024-09-18
+R00310,Rajiv Gandhi Government Hospital,B+,4,High,Surat,2023-07-19
+R00311,Aster CMI,B+,5,High,Thane,2023-06-12
+R00312,Sir Ganga Ram Hospital,A+,4,Medium,Delhi,2024-11-03
+R00313,Christian Medical College,O+,3,Medium,Bhopal,2023-05-15
+R00314,AIIMS,B+,3,Low,Delhi,2024-04-03
+R00315,Christian Medical College,O+,3,Medium,Ahmedabad,2024-03-18
+R00316,Fortis Healthcare,A+,6,Medium,Jaipur,2023-03-18
+R00317,Amrita Institute of Medical Sciences,B+,1,High,Kolkata,2023-06-05
+R00318,Apollo Hospital,B+,2,High,Rajkot,2024-01-22
+R00319,Fortis Healthcare,O+,1,Medium,Kolkata,2023-04-19
+R00320,Aster CMI,B+,3,Medium,Lucknow,2024-09-04
+R00321,Fortis Healthcare,A+,3,High,Ahmedabad,2024-10-03
+R00322,Medanta,A+,2,Medium,Hyderabad,2023-11-23
+R00323,Safdarjung Hospital,O+,5,Medium,Jaipur,2023-01-02
+R00324,KEM Hospital,B+,1,Low,Kolkata,2023-02-01
+R00325,Medanta,A+,5,High,Mumbai,2024-09-02
+R00326,KEM Hospital,A+,1,Medium,Ahmedabad,2024-02-28
+R00327,Kokilaben Dhirubhai Ambani,O+,4,High,Rajkot,2023-10-21
+R00328,Sir Ganga Ram Hospital,B+,1,Low,Thane,2023-04-26
+R00329,Jehangir Hospital,B+,1,Medium,Kanpur,2024-05-22
+R00330,Christian Medical College,O+,1,Low,Coimbatore,2023-03-16
+R00331,Narayana Health,A-,3,Critical,Mumbai,2024-06-08
+R00332,Aster CMI,B+,6,High,Jaipur,2024-05-14
+R00333,Safdarjung Hospital,A+,1,Medium,Kanpur,2023-05-01
+R00334,Kokilaben Dhirubhai Ambani,O+,2,Medium,Mumbai,2024-04-28
+R00335,Max Super Speciality,O+,1,Low,Kanpur,2023-08-22
+R00336,Ruby Hall Clinic,O+,1,Critical,Hyderabad,2023-11-13
+R00337,Rajiv Gandhi Government Hospital,A+,2,High,Surat,2023-03-15
+R00338,Lilavati Hospital,B+,4,Medium,Nagpur,2024-12-21
+R00339,AIIMS,B-,2,Medium,Hyderabad,2023-04-05
+R00340,Kokilaben Dhirubhai Ambani,B+,1,High,Delhi,2023-01-25
+R00341,AIIMS,A+,3,Medium,Patna,2024-02-10
+R00342,Fortis Healthcare,B+,1,Low,Mumbai,2023-04-10
+R00343,Aster CMI,AB+,1,High,Mumbai,2023-07-05
+R00344,Apollo Hospital,A+,1,Medium,Lucknow,2024-07-10
+R00345,Safdarjung Hospital,A+,5,Critical,Coimbatore,2024-08-02
+R00346,Ruby Hall Clinic,A+,3,Critical,Jaipur,2023-10-11
+R00347,Deenanath Mangeshkar,O+,2,Low,Kanpur,2023-02-06
+R00348,Wockhardt,AB+,1,Medium,Delhi,2023-10-17
+R00349,Wockhardt,A+,1,Low,Coimbatore,2023-07-29
+R00350,Medanta,A+,2,High,Ahmedabad,2024-02-16
+R00351,Kokilaben Dhirubhai Ambani,B+,2,Critical,Mumbai,2024-08-13
+R00352,AIIMS,O+,4,Low,Bangalore,2024-01-07
+R00353,Apollo Hospital,A+,3,High,Mumbai,2023-05-09
+R00354,Manipal Hospital,O+,2,Critical,Mumbai,2024-08-23
+R00355,Aster CMI,AB+,3,Medium,Hyderabad,2023-07-26
+R00356,Fortis Healthcare,A+,1,High,Ahmedabad,2024-07-30
+R00357,Rajiv Gandhi Government Hospital,B+,2,High,Surat,2024-01-06
+R00358,Apollo Hospital,B+,3,Critical,Mumbai,2024-05-31
+R00359,Ruby Hall Clinic,A+,2,Critical,Pune,2023-05-26
+R00360,Max Super Speciality,B+,2,High,Kanpur,2023-09-04
+R00361,Christian Medical College,O+,2,Medium,Coimbatore,2023-08-19
+R00362,KEM Hospital,O+,3,Medium,Rajkot,2024-01-05
+R00363,Medanta,B+,1,Medium,Nashik,2023-10-22
+R00364,Manipal Hospital,O+,1,Critical,Indore,2023-01-22
+R00365,KEM Hospital,B+,2,Medium,Ahmedabad,2024-09-06
+R00366,Max Super Speciality,A+,4,Medium,Ahmedabad,2024-08-31
+R00367,Christian Medical College,O-,5,High,Mumbai,2023-05-03
+R00368,Apollo Hospital,B+,2,Critical,Agra,2023-12-29
+R00369,KEM Hospital,A+,3,High,Ahmedabad,2023-05-29
+R00370,Wockhardt,AB+,2,Low,Delhi,2024-03-17
+R00371,Rajiv Gandhi Government Hospital,B-,4,High,Patna,2024-10-16
+R00372,Rajiv Gandhi Government Hospital,A+,1,Critical,Delhi,2024-07-23
+R00373,Lilavati Hospital,O+,2,High,Bangalore,2023-12-14
+R00374,Rajiv Gandhi Government Hospital,A+,1,Low,Hyderabad,2023-05-27
+R00375,Sir Ganga Ram Hospital,O+,1,High,Nashik,2023-12-12
+R00376,Fortis Healthcare,B+,1,Medium,Pune,2024-07-27
+R00377,Wockhardt,O-,2,High,Agra,2024-08-19
+R00378,Manipal Hospital,O+,4,Medium,Hyderabad,2023-09-18
+R00379,AIIMS,A+,1,Medium,Jaipur,2024-10-06
+R00380,Kokilaben Dhirubhai Ambani,B+,2,Medium,Mumbai,2023-06-13
+R00381,Narayana Health,O+,2,High,Delhi,2024-11-11
+R00382,Max Super Speciality,A+,2,Medium,Delhi,2023-10-30
+R00383,Aster CMI,A+,2,Low,Mumbai,2023-06-23
+R00384,AIIMS,A+,2,High,Surat,2023-09-18
+R00385,Wockhardt,A+,2,Critical,Delhi,2024-08-12
+R00386,Ruby Hall Clinic,O+,1,Low,Ahmedabad,2023-04-09
+R00387,Kokilaben Dhirubhai Ambani,B+,3,Medium,Jaipur,2024-07-16
+R00388,Amrita Institute of Medical Sciences,AB+,3,Medium,Chennai,2023-08-05
+R00389,Medanta,A+,4,High,Agra,2024-07-10
+R00390,Manipal Hospital,B+,4,Medium,Surat,2023-04-22
+R00391,Jehangir Hospital,A-,4,Low,Nashik,2023-10-12
+R00392,Ruby Hall Clinic,B+,1,Low,Ahmedabad,2023-12-31
+R00393,AIIMS,O+,3,Low,Pune,2023-03-01
+R00394,Christian Medical College,A+,3,High,Nashik,2024-08-10
+R00395,Medanta,O+,2,Critical,Vadodara,2024-08-15
+R00396,Max Super Speciality,B+,2,Medium,Delhi,2023-12-09
+R00397,Manipal Hospital,B+,1,High,Patna,2023-12-08
+R00398,Jehangir Hospital,O+,2,Medium,Ludhiana,2024-07-08
+R00399,KEM Hospital,O-,1,High,Pune,2024-07-30
+R00400,Fortis Healthcare,A+,4,High,Kolkata,2024-09-11
+R00401,Apollo Hospital,B+,3,Medium,Mumbai,2023-08-13
+R00402,Narayana Health,A+,1,Medium,Bhopal,2024-06-23
+R00403,Christian Medical College,B+,1,Medium,Lucknow,2024-02-16
+R00404,Apollo Hospital,O+,2,Low,Mumbai,2023-05-06
+R00405,Amrita Institute of Medical Sciences,B-,2,Medium,Vadodara,2023-02-05
+R00406,Kokilaben Dhirubhai Ambani,O+,1,High,Rajkot,2023-12-23
+R00407,Lilavati Hospital,O-,2,Medium,Nashik,2023-11-13
+R00408,Lilavati Hospital,B-,1,Medium,Chennai,2023-11-09
+R00409,Jehangir Hospital,O+,2,Medium,Lucknow,2024-01-17
+R00410,Christian Medical College,B+,2,Medium,Jaipur,2023-06-17
+R00411,Medanta,O+,6,Low,Bangalore,2023-08-12
+R00412,Amrita Institute of Medical Sciences,A+,1,Medium,Kolkata,2024-11-23
+R00413,Max Super Speciality,B+,5,High,Mumbai,2023-11-25
+R00414,Deenanath Mangeshkar,A-,2,Medium,Surat,2023-01-22
+R00415,Deenanath Mangeshkar,O-,2,Medium,Bangalore,2024-06-03
+R00416,Fortis Healthcare,AB+,5,Low,Mumbai,2024-03-17
+R00417,Apollo Hospital,B-,1,High,Lucknow,2024-04-27
+R00418,Deenanath Mangeshkar,B+,2,Medium,Patna,2023-09-04
+R00419,Sir Ganga Ram Hospital,B-,6,Medium,Chennai,2023-03-10
+R00420,Wockhardt,A-,4,Medium,Bangalore,2023-07-12
+R00421,Manipal Hospital,B+,2,Critical,Delhi,2024-07-29
+R00422,Medanta,A-,1,High,Nagpur,2024-01-26
+R00423,Wockhardt,B+,2,High,Chennai,2023-08-23
+R00424,Narayana Health,O+,2,Low,Coimbatore,2024-03-03
+R00425,KEM Hospital,AB-,2,Medium,Delhi,2024-02-10
+R00426,Apollo Hospital,A+,1,Low,Ahmedabad,2024-10-14
+R00427,Safdarjung Hospital,AB+,1,Critical,Kolkata,2023-08-17
+R00428,Max Super Speciality,B+,2,Low,Pune,2024-06-03
+R00429,Kokilaben Dhirubhai Ambani,B+,5,Medium,Mumbai,2023-02-18
+R00430,Manipal Hospital,O+,2,Low,Lucknow,2024-11-18
+R00431,Medanta,A+,2,Medium,Thane,2024-06-23
+R00432,Deenanath Mangeshkar,B+,1,Low,Bangalore,2024-07-12
+R00433,Sir Ganga Ram Hospital,A+,3,Medium,Bhopal,2024-07-31
+R00434,Christian Medical College,O+,3,Medium,Delhi,2023-06-05
+R00435,Lilavati Hospital,A-,1,Low,Udaipur,2023-01-07
+R00436,Christian Medical College,O+,1,Critical,Kolkata,2023-10-11
+R00437,Medanta,B+,3,High,Bangalore,2024-08-17
+R00438,Sir Ganga Ram Hospital,B+,5,Low,Surat,2023-04-09
+R00439,Medanta,A+,3,Low,Chennai,2024-12-16
+R00440,Wockhardt,A+,2,High,Indore,2023-03-18
+R00441,Safdarjung Hospital,B+,1,Low,Pune,2024-05-30
+R00442,Jehangir Hospital,B+,1,High,Mumbai,2023-03-06
+R00443,KEM Hospital,A+,2,Critical,Kolkata,2024-04-29
+R00444,Rajiv Gandhi Government Hospital,B+,1,Low,Kolkata,2023-01-15
+R00445,Apollo Hospital,B+,2,Critical,Surat,2023-03-14
+R00446,AIIMS,B+,1,Medium,Jaipur,2024-07-03
+R00447,Amrita Institute of Medical Sciences,AB+,3,High,Bangalore,2023-08-15
+R00448,Safdarjung Hospital,A+,5,Low,Lucknow,2023-03-01
+R00449,KEM Hospital,O+,1,High,Thane,2024-10-23
+R00450,Jehangir Hospital,AB+,3,Medium,Hyderabad,2023-09-08
+R00451,Fortis Healthcare,O-,2,Medium,Bangalore,2023-06-28
+R00452,AIIMS,B+,2,Medium,Bhopal,2024-11-26
+R00453,Lilavati Hospital,O+,6,Low,Surat,2023-06-13
+R00454,Christian Medical College,B-,2,Medium,Ahmedabad,2023-03-08
+R00455,Manipal Hospital,A-,3,Low,Udaipur,2023-03-21
+R00456,Fortis Healthcare,B+,6,High,Bangalore,2023-06-12
+R00457,Narayana Health,A-,2,High,Chennai,2024-04-02
+R00458,Safdarjung Hospital,B+,2,Critical,Bangalore,2024-10-24
+R00459,Deenanath Mangeshkar,O+,2,High,Ludhiana,2023-05-14
+R00460,Amrita Institute of Medical Sciences,O-,5,Medium,Kanpur,2023-07-12
+R00461,Safdarjung Hospital,O+,3,Medium,Lucknow,2024-02-22
+R00462,AIIMS,O+,3,Medium,Chennai,2023-10-26
+R00463,Ruby Hall Clinic,A+,5,High,Bangalore,2024-03-01
+R00464,Jehangir Hospital,O+,4,Low,Bangalore,2024-01-16
+R00465,Rajiv Gandhi Government Hospital,B+,2,Medium,Kolkata,2023-12-17
+R00466,Amrita Institute of Medical Sciences,B+,2,High,Vadodara,2023-05-22
+R00467,KEM Hospital,A+,5,High,Bangalore,2024-11-28
+R00468,Medanta,B-,1,Medium,Bangalore,2024-08-02
+R00469,Kokilaben Dhirubhai Ambani,A+,2,Critical,Rajkot,2023-05-14
+R00470,Fortis Healthcare,O+,1,Low,Hyderabad,2024-05-23
+R00471,Christian Medical College,A+,3,Low,Bhopal,2023-12-07
+R00472,Lilavati Hospital,O+,2,High,Agra,2023-01-04
+R00473,Lilavati Hospital,AB+,4,Medium,Indore,2023-01-03
+R00474,Sir Ganga Ram Hospital,O-,2,Critical,Bhopal,2023-11-08
+R00475,Apollo Hospital,AB+,2,High,Delhi,2024-07-16
+R00476,Jehangir Hospital,A+,4,Critical,Hyderabad,2024-06-20
+R00477,Rajiv Gandhi Government Hospital,B+,4,Medium,Bhopal,2023-01-04
+R00478,AIIMS,O+,1,Medium,Delhi,2024-11-25
+R00479,Christian Medical College,O+,2,High,Mumbai,2024-01-11
+R00480,Wockhardt,O+,2,High,Mumbai,2024-02-18
+R00481,Manipal Hospital,B+,3,Low,Chennai,2023-08-06
+R00482,Apollo Hospital,O+,4,High,Surat,2024-11-16
+R00483,Rajiv Gandhi Government Hospital,B+,1,Medium,Patna,2023-11-19
+R00484,Fortis Healthcare,O+,3,Critical,Indore,2023-04-29
+R00485,Max Super Speciality,B+,2,Low,Mumbai,2024-01-24
+R00486,Sir Ganga Ram Hospital,A+,6,High,Surat,2023-12-18
+R00487,Narayana Health,O+,2,High,Ahmedabad,2023-06-18
+R00488,KEM Hospital,O+,1,High,Jaipur,2023-04-04
+R00489,Amrita Institute of Medical Sciences,O+,6,High,Indore,2024-02-01
+R00490,Ruby Hall Clinic,O+,4,High,Hyderabad,2023-09-27
+R00491,Jehangir Hospital,O+,1,High,Delhi,2023-07-04
+R00492,Narayana Health,B-,3,Medium,Patna,2024-10-06
+R00493,Safdarjung Hospital,B+,3,Low,Chennai,2023-02-21
+R00494,Deenanath Mangeshkar,O+,4,Medium,Nagpur,2024-06-10
+R00495,Apollo Hospital,A+,1,Low,Mumbai,2024-10-16
+R00496,Aster CMI,B+,1,Low,Nashik,2023-09-24
+R00497,Deenanath Mangeshkar,O+,3,Low,Ahmedabad,2023-09-04
+R00498,Sir Ganga Ram Hospital,O+,5,Medium,Delhi,2024-09-13
+R00499,Medanta,A-,1,High,Surat,2023-03-13
+R00500,Deenanath Mangeshkar,O+,3,Medium,Udaipur,2023-12-05
+R00501,Ruby Hall Clinic,B+,2,Low,Ludhiana,2023-12-17
+R00502,Fortis Healthcare,B+,2,High,Indore,2023-09-13
+R00503,Sir Ganga Ram Hospital,B+,2,Critical,Chennai,2024-06-23
+R00504,Narayana Health,A+,1,High,Surat,2023-02-23
+R00505,Amrita Institute of Medical Sciences,O-,2,Medium,Chennai,2024-05-13
+R00506,Manipal Hospital,A+,2,Medium,Surat,2023-05-12
+R00507,Jehangir Hospital,B+,2,High,Kolkata,2024-08-26
+R00508,Apollo Hospital,O-,4,High,Chennai,2023-05-16
+R00509,Safdarjung Hospital,A+,3,Low,Bangalore,2023-06-17
+R00510,KEM Hospital,A-,1,Low,Bangalore,2024-07-27
+R00511,Lilavati Hospital,B-,3,High,Chennai,2023-05-04
+R00512,KEM Hospital,B-,3,Medium,Bangalore,2024-03-12
+R00513,KEM Hospital,A+,2,Medium,Jaipur,2024-05-05
+R00514,Safdarjung Hospital,O-,3,High,Mumbai,2023-05-06
+R00515,Narayana Health,O+,3,Medium,Mumbai,2024-09-30
+R00516,Medanta,A+,2,Medium,Thane,2023-10-13
+R00517,Rajiv Gandhi Government Hospital,A-,3,Critical,Ahmedabad,2023-06-04
+R00518,Medanta,A+,2,High,Jaipur,2024-10-26
+R00519,Amrita Institute of Medical Sciences,B+,1,Critical,Mumbai,2023-04-03
+R00520,Deenanath Mangeshkar,O+,2,Low,Bangalore,2023-09-02
+R00521,Jehangir Hospital,A+,2,Medium,Nashik,2023-11-18
+R00522,Safdarjung Hospital,O+,3,High,Surat,2023-01-20
+R00523,Wockhardt,B+,1,High,Kolkata,2024-04-25
+R00524,Medanta,AB+,6,High,Lucknow,2024-09-07
+R00525,Narayana Health,O+,4,Low,Nashik,2024-05-04
+R00526,Rajiv Gandhi Government Hospital,A+,1,High,Bhopal,2024-05-05
+R00527,Jehangir Hospital,O+,1,Low,Ahmedabad,2024-06-24
+R00528,Sir Ganga Ram Hospital,O+,4,Critical,Thane,2024-02-06
+R00529,Manipal Hospital,A+,2,Low,Mumbai,2024-02-24
+R00530,Kokilaben Dhirubhai Ambani,A-,2,High,Kolkata,2024-09-16
+R00531,Apollo Hospital,B-,4,High,Bhopal,2024-04-08
+R00532,Kokilaben Dhirubhai Ambani,O-,6,Medium,Hyderabad,2023-09-12
+R00533,Deenanath Mangeshkar,A+,2,Critical,Bangalore,2024-10-30
+R00534,Medanta,A+,4,Medium,Pune,2023-03-20
+R00535,Safdarjung Hospital,O+,1,Critical,Agra,2023-06-17
+R00536,Wockhardt,A+,1,High,Surat,2023-01-20
+R00537,KEM Hospital,AB+,2,High,Mumbai,2024-02-13
+R00538,Medanta,O+,5,High,Mumbai,2024-09-07
+R00539,Apollo Hospital,B+,5,Low,Thane,2023-11-04
+R00540,Aster CMI,B+,2,High,Delhi,2024-04-12
+R00541,Jehangir Hospital,B+,6,Critical,Thane,2024-06-13
+R00542,Sir Ganga Ram Hospital,B+,4,High,Bhopal,2024-08-07
+R00543,Narayana Health,B+,5,Critical,Bhopal,2024-09-22
+R00544,Deenanath Mangeshkar,A+,2,High,Pune,2023-11-25
+R00545,Medanta,O+,5,Low,Ahmedabad,2024-11-15
+R00546,Jehangir Hospital,O+,2,Critical,Agra,2023-02-24
+R00547,Rajiv Gandhi Government Hospital,A-,5,Medium,Mumbai,2024-10-13
+R00548,Sir Ganga Ram Hospital,B+,2,Low,Lucknow,2023-05-24
+R00549,Narayana Health,O+,2,Critical,Ahmedabad,2024-01-06
+R00550,Safdarjung Hospital,O+,2,Low,Bhopal,2023-08-14
+R00551,Narayana Health,A+,3,Critical,Chennai,2023-09-24
+R00552,Amrita Institute of Medical Sciences,O+,1,Low,Jaipur,2024-06-09
+R00553,Sir Ganga Ram Hospital,A+,4,Low,Agra,2023-11-04
+R00554,Medanta,O+,2,Medium,Hyderabad,2023-09-26
+R00555,Jehangir Hospital,A+,4,Medium,Bhopal,2024-06-29
+R00556,Lilavati Hospital,O-,4,Low,Kolkata,2023-03-28
+R00557,AIIMS,O+,1,Medium,Bangalore,2023-12-08
+R00558,Amrita Institute of Medical Sciences,B+,1,Low,Indore,2023-10-07
+R00559,Manipal Hospital,B+,3,Critical,Hyderabad,2024-07-02
+R00560,Jehangir Hospital,O+,3,Critical,Hyderabad,2023-10-03
+R00561,Jehangir Hospital,AB+,1,Medium,Mumbai,2024-11-08
+R00562,Deenanath Mangeshkar,B+,1,High,Thane,2024-08-29
+R00563,Max Super Speciality,O+,2,High,Hyderabad,2023-08-26
+R00564,Kokilaben Dhirubhai Ambani,O-,2,Low,Hyderabad,2024-09-02
+R00565,Kokilaben Dhirubhai Ambani,A+,3,Critical,Delhi,2023-11-25
+R00566,Max Super Speciality,O+,3,Low,Rajkot,2023-08-04
+R00567,Lilavati Hospital,B+,1,Low,Mumbai,2024-05-23
+R00568,Lilavati Hospital,B-,4,Medium,Surat,2023-02-08
+R00569,Amrita Institute of Medical Sciences,A+,1,High,Indore,2023-07-10
+R00570,Wockhardt,B+,3,Low,Mumbai,2024-01-09
+R00571,KEM Hospital,B+,2,Medium,Nagpur,2023-06-01
+R00572,Safdarjung Hospital,B+,3,Low,Ahmedabad,2024-03-29
+R00573,Christian Medical College,AB+,4,High,Bhopal,2024-09-08
+R00574,Safdarjung Hospital,O+,2,High,Mumbai,2023-03-23
+R00575,KEM Hospital,B+,5,Critical,Chennai,2023-07-11
+R00576,KEM Hospital,B+,1,High,Visakhapatnam,2023-07-04
+R00577,Safdarjung Hospital,O+,3,High,Delhi,2023-03-14
+R00578,KEM Hospital,AB+,2,Medium,Hyderabad,2024-11-27
+R00579,Narayana Health,O+,2,High,Lucknow,2024-04-06
+R00580,Deenanath Mangeshkar,O+,1,High,Surat,2024-01-22
+R00581,KEM Hospital,A+,2,Medium,Delhi,2024-07-01
+R00582,Safdarjung Hospital,A+,5,Medium,Bhopal,2024-08-16
+R00583,Manipal Hospital,B+,1,High,Mumbai,2024-11-09
+R00584,Narayana Health,O+,1,Critical,Vadodara,2024-04-18
+R00585,Kokilaben Dhirubhai Ambani,A+,2,Medium,Ahmedabad,2024-06-29
+R00586,Kokilaben Dhirubhai Ambani,A+,4,Medium,Jaipur,2023-11-02
+R00587,Max Super Speciality,B+,3,Critical,Mumbai,2024-10-12
+R00588,Apollo Hospital,AB+,1,High,Pune,2024-11-19
+R00589,Medanta,O+,3,Low,Indore,2024-05-15
+R00590,Kokilaben Dhirubhai Ambani,B+,5,Low,Mumbai,2024-10-07
+R00591,Jehangir Hospital,AB+,3,High,Mumbai,2024-02-06
+R00592,Christian Medical College,A+,1,High,Mumbai,2024-12-12
+R00593,Apollo Hospital,B+,2,Critical,Hyderabad,2024-12-18
+R00594,Apollo Hospital,O+,3,Critical,Surat,2023-07-17
+R00595,Lilavati Hospital,AB+,1,High,Ahmedabad,2024-06-21
+R00596,Rajiv Gandhi Government Hospital,O+,2,Low,Rajkot,2023-03-02
+R00597,Kokilaben Dhirubhai Ambani,B+,1,Critical,Ahmedabad,2024-12-13
+R00598,Safdarjung Hospital,O+,4,High,Ahmedabad,2023-06-01
+R00599,Narayana Health,A+,2,Medium,Ahmedabad,2023-05-14
+R00600,Ruby Hall Clinic,B+,1,High,Rajkot,2023-02-09
+R00601,Rajiv Gandhi Government Hospital,O-,5,Medium,Chennai,2023-08-31
+R00602,Max Super Speciality,A+,2,Critical,Vadodara,2023-09-19
+R00603,KEM Hospital,O+,3,Medium,Chennai,2023-01-27
+R00604,Max Super Speciality,O+,3,Medium,Bhopal,2023-02-17
+R00605,Deenanath Mangeshkar,O+,3,Medium,Nagpur,2023-10-05
+R00606,Deenanath Mangeshkar,B-,4,High,Nagpur,2024-01-15
+R00607,Ruby Hall Clinic,A+,3,Low,Mumbai,2023-08-19
+R00608,Rajiv Gandhi Government Hospital,AB+,5,Low,Hyderabad,2023-10-14
+R00609,Amrita Institute of Medical Sciences,A+,3,Medium,Bhopal,2024-08-20
+R00610,KEM Hospital,O+,2,Medium,Lucknow,2024-05-09
+R00611,Safdarjung Hospital,A+,1,High,Ahmedabad,2023-02-14
+R00612,Apollo Hospital,A-,2,Low,Bangalore,2023-08-06
+R00613,Apollo Hospital,O+,1,High,Delhi,2023-02-03
+R00614,Deenanath Mangeshkar,B+,2,Low,Indore,2023-09-26
+R00615,AIIMS,B+,5,High,Indore,2023-10-25
+R00616,Manipal Hospital,A+,4,Medium,Delhi,2024-04-27
+R00617,KEM Hospital,O+,1,Medium,Mumbai,2023-12-24
+R00618,Lilavati Hospital,O-,4,Medium,Coimbatore,2023-08-19
+R00619,Safdarjung Hospital,O+,5,Low,Agra,2023-09-22
+R00620,KEM Hospital,AB+,3,Low,Lucknow,2024-07-02
+R00621,KEM Hospital,A+,1,High,Mumbai,2024-01-12
+R00622,Deenanath Mangeshkar,A+,5,Critical,Vadodara,2023-11-23
+R00623,Ruby Hall Clinic,B+,2,Critical,Mumbai,2024-12-20
+R00624,Deenanath Mangeshkar,A+,6,Low,Kolkata,2024-11-06
+R00625,AIIMS,O+,2,Low,Rajkot,2023-05-12
+R00626,Max Super Speciality,O+,1,Medium,Kolkata,2024-04-07
+R00627,KEM Hospital,B+,3,High,Mumbai,2024-02-25
+R00628,Narayana Health,O+,2,High,Udaipur,2023-04-14
+R00629,Safdarjung Hospital,O+,3,High,Patna,2024-03-13
+R00630,Medanta,O-,2,High,Chennai,2023-12-18
+R00631,Rajiv Gandhi Government Hospital,B-,3,Low,Ahmedabad,2024-08-06
+R00632,AIIMS,O+,2,Low,Bangalore,2024-01-18
+R00633,Lilavati Hospital,O+,3,Medium,Mumbai,2024-11-15
+R00634,Amrita Institute of Medical Sciences,A-,2,Medium,Mumbai,2023-01-18
+R00635,AIIMS,B+,2,Low,Mumbai,2024-10-23
+R00636,Lilavati Hospital,AB+,1,Critical,Mumbai,2024-01-25
+R00637,Aster CMI,O+,3,High,Hyderabad,2023-06-04
+R00638,Amrita Institute of Medical Sciences,B+,6,High,Kanpur,2024-10-19
+R00639,KEM Hospital,O+,4,Critical,Surat,2023-08-24
+R00640,Christian Medical College,O+,3,Low,Delhi,2024-11-30
+R00641,KEM Hospital,B+,1,Medium,Indore,2024-07-14
+R00642,Sir Ganga Ram Hospital,B+,1,Low,Nagpur,2024-11-08
+R00643,KEM Hospital,B+,1,Low,Pune,2023-03-27
+R00644,Lilavati Hospital,B-,2,Medium,Bangalore,2024-02-22
+R00645,Deenanath Mangeshkar,O+,3,Low,Surat,2024-05-25
+R00646,Manipal Hospital,A+,2,Medium,Coimbatore,2024-05-13
+R00647,Manipal Hospital,B+,1,Medium,Mumbai,2024-02-01
+R00648,Jehangir Hospital,A+,2,High,Nagpur,2024-09-24
+R00649,KEM Hospital,A+,1,High,Jaipur,2024-02-05
+R00650,Medanta,AB+,3,High,Kolkata,2024-10-15
+R00651,Christian Medical College,A+,1,High,Chennai,2024-12-27
+R00652,Manipal Hospital,O+,2,Low,Bangalore,2024-01-22
+R00653,Aster CMI,O+,2,Critical,Bangalore,2023-07-11
+R00654,Ruby Hall Clinic,O+,6,High,Indore,2024-04-21
+R00655,Deenanath Mangeshkar,O+,6,Medium,Mumbai,2024-09-29
+R00656,Aster CMI,O-,3,Low,Bangalore,2024-03-11
+R00657,Ruby Hall Clinic,B+,2,High,Delhi,2024-09-17
+R00658,AIIMS,B+,2,Critical,Indore,2023-07-02
+R00659,Manipal Hospital,B+,3,High,Mumbai,2024-11-03
+R00660,Aster CMI,B+,1,Critical,Bangalore,2024-12-29
+R00661,Aster CMI,B+,3,Low,Thane,2024-11-30
+R00662,Deenanath Mangeshkar,B+,2,Critical,Kolkata,2024-07-01
+R00663,Deenanath Mangeshkar,A+,2,Medium,Pune,2023-07-03
+R00664,Narayana Health,A+,2,Medium,Indore,2024-09-13
+R00665,Wockhardt,A+,1,Low,Patna,2023-09-20
+R00666,Ruby Hall Clinic,B-,5,Medium,Thane,2023-05-02
+R00667,Max Super Speciality,O+,2,Medium,Vadodara,2023-11-13
+R00668,Max Super Speciality,B+,1,Medium,Hyderabad,2023-09-26
+R00669,Narayana Health,A+,3,Medium,Lucknow,2023-04-13
+R00670,AIIMS,AB+,3,Low,Bangalore,2024-11-27
+R00671,KEM Hospital,AB-,2,Medium,Kolkata,2023-11-17
+R00672,Manipal Hospital,A+,2,Critical,Vadodara,2023-04-12
+R00673,Max Super Speciality,O-,5,High,Vadodara,2024-12-15
+R00674,Apollo Hospital,B+,4,Critical,Kolkata,2024-09-08
+R00675,Kokilaben Dhirubhai Ambani,A-,1,Medium,Chennai,2024-08-06
+R00676,Amrita Institute of Medical Sciences,A+,3,High,Lucknow,2024-07-04
+R00677,Max Super Speciality,O+,3,Medium,Lucknow,2023-09-25
+R00678,Manipal Hospital,O+,3,High,Hyderabad,2023-02-03
+R00679,Aster CMI,B+,3,Low,Chennai,2024-03-01
+R00680,Safdarjung Hospital,O+,5,High,Kolkata,2023-09-01
+R00681,Safdarjung Hospital,B+,1,Medium,Delhi,2023-01-14
+R00682,Safdarjung Hospital,O+,2,Critical,Mumbai,2024-06-22
+R00683,Deenanath Mangeshkar,A+,2,Medium,Bangalore,2023-07-19
+R00684,Medanta,B+,4,Medium,Ahmedabad,2024-05-05
+R00685,Apollo Hospital,A+,2,Critical,Lucknow,2023-07-15
+R00686,Christian Medical College,A+,3,Low,Patna,2024-03-10
+R00687,Ruby Hall Clinic,O+,5,High,Delhi,2024-04-23
+R00688,AIIMS,A-,6,Low,Mumbai,2023-12-23
+R00689,Manipal Hospital,A+,2,Critical,Mumbai,2024-11-26
+R00690,Amrita Institute of Medical Sciences,O+,2,Low,Surat,2024-12-12
+R00691,Aster CMI,B-,2,Low,Delhi,2023-08-10
+R00692,Sir Ganga Ram Hospital,A+,3,Medium,Hyderabad,2024-02-04
+R00693,Kokilaben Dhirubhai Ambani,B-,3,High,Lucknow,2024-10-22
+R00694,Lilavati Hospital,AB+,2,Low,Mumbai,2023-08-24
+R00695,KEM Hospital,B+,3,High,Kolkata,2023-06-02
+R00696,Max Super Speciality,AB-,5,Critical,Lucknow,2024-09-15
+R00697,Rajiv Gandhi Government Hospital,B+,2,Critical,Jaipur,2024-07-22
+R00698,Kokilaben Dhirubhai Ambani,AB+,3,Medium,Lucknow,2023-03-30
+R00699,Amrita Institute of Medical Sciences,O-,2,High,Indore,2024-11-23
+R00700,Fortis Healthcare,AB+,1,Medium,Pune,2023-06-10
+R00701,Max Super Speciality,AB+,2,Low,Ludhiana,2024-12-07
+R00702,Safdarjung Hospital,A+,6,Low,Ludhiana,2023-03-14
+R00703,Aster CMI,A+,4,High,Chennai,2023-10-14
+R00704,Fortis Healthcare,A-,4,Medium,Nagpur,2023-09-21
+R00705,Ruby Hall Clinic,A+,2,Medium,Delhi,2024-06-13
+R00706,Medanta,O+,6,Low,Mumbai,2024-11-03
+R00707,Deenanath Mangeshkar,O+,4,Critical,Pune,2023-12-31
+R00708,Aster CMI,A-,2,Medium,Agra,2023-08-04
+R00709,Wockhardt,AB+,6,Low,Surat,2023-12-05
+R00710,KEM Hospital,O+,1,Medium,Indore,2024-03-07
+R00711,Apollo Hospital,O+,1,Medium,Bangalore,2023-01-14
+R00712,Ruby Hall Clinic,A+,4,High,Pune,2023-08-05
+R00713,Narayana Health,AB+,4,Medium,Delhi,2024-11-30
+R00714,Max Super Speciality,O-,3,Critical,Mumbai,2023-12-20
+R00715,Narayana Health,B+,3,Medium,Agra,2023-05-23
+R00716,Rajiv Gandhi Government Hospital,O+,5,Low,Mumbai,2024-04-29
+R00717,Ruby Hall Clinic,B+,1,Low,Kolkata,2024-04-14
+R00718,Aster CMI,O+,2,Medium,Mumbai,2023-08-06
+R00719,Fortis Healthcare,O+,1,Medium,Jaipur,2023-04-07
+R00720,Narayana Health,A-,3,Medium,Ahmedabad,2024-04-16
+R00721,Fortis Healthcare,O+,3,High,Kolkata,2023-05-18
+R00722,Rajiv Gandhi Government Hospital,O+,5,Medium,Mumbai,2024-07-31
+R00723,Safdarjung Hospital,O+,4,Medium,Bangalore,2024-03-19
+R00724,Wockhardt,O+,6,High,Ludhiana,2024-01-23
+R00725,Jehangir Hospital,A+,3,Low,Hyderabad,2024-06-05
+R00726,Ruby Hall Clinic,B+,2,Low,Vadodara,2024-03-12
+R00727,Narayana Health,A+,5,Medium,Kolkata,2024-02-15
+R00728,Medanta,A+,2,High,Mumbai,2023-02-25
+R00729,Lilavati Hospital,B+,2,Medium,Lucknow,2023-09-13
+R00730,KEM Hospital,B-,2,Medium,Hyderabad,2024-10-12
+R00731,Narayana Health,A+,2,High,Bangalore,2024-12-16
+R00732,Rajiv Gandhi Government Hospital,A+,1,Medium,Nagpur,2023-07-20
+R00733,KEM Hospital,A+,1,High,Hyderabad,2023-03-09
+R00734,Wockhardt,B-,3,High,Delhi,2024-03-27
+R00735,KEM Hospital,A+,5,Medium,Pune,2024-08-11
+R00736,Narayana Health,O+,1,Medium,Bangalore,2023-06-05
+R00737,AIIMS,O-,1,Critical,Chennai,2024-04-18
+R00738,Deenanath Mangeshkar,O+,2,Low,Mumbai,2024-03-28
+R00739,Amrita Institute of Medical Sciences,O+,6,Low,Ahmedabad,2024-07-12
+R00740,Max Super Speciality,AB+,6,High,Kolkata,2024-03-25
+R00741,Kokilaben Dhirubhai Ambani,O+,6,High,Ahmedabad,2024-04-26
+R00742,KEM Hospital,O+,2,High,Lucknow,2024-02-04
+R00743,AIIMS,A+,3,Medium,Kolkata,2024-10-09
+R00744,Aster CMI,B+,2,Critical,Kolkata,2023-11-11
+R00745,Jehangir Hospital,A+,3,High,Bangalore,2024-09-25
+R00746,Fortis Healthcare,O+,3,Critical,Mumbai,2024-07-31
+R00747,Jehangir Hospital,O+,1,High,Hyderabad,2023-05-18
+R00748,Safdarjung Hospital,A-,4,High,Visakhapatnam,2023-05-24
+R00749,Jehangir Hospital,B+,3,High,Hyderabad,2024-03-28
+R00750,Jehangir Hospital,A+,2,High,Patna,2023-06-24
+R00751,Max Super Speciality,A+,4,Medium,Kolkata,2023-08-03
+R00752,Max Super Speciality,B-,1,High,Bangalore,2023-11-11
+R00753,Medanta,A+,1,Low,Nagpur,2024-08-19
+R00754,Narayana Health,A+,2,Low,Surat,2023-07-05
+R00755,Medanta,A+,4,Medium,Mumbai,2024-01-28
+R00756,Amrita Institute of Medical Sciences,B+,1,Low,Indore,2023-10-17
+R00757,Manipal Hospital,B+,1,Medium,Delhi,2023-02-26
+R00758,KEM Hospital,O-,3,Critical,Lucknow,2023-05-13
+R00759,Ruby Hall Clinic,O+,1,High,Ahmedabad,2024-05-11
+R00760,Apollo Hospital,A-,1,Low,Delhi,2024-03-01
+R00761,Lilavati Hospital,B+,3,High,Vadodara,2023-08-02
+R00762,Christian Medical College,B+,4,Medium,Mumbai,2023-07-03
+R00763,Manipal Hospital,O+,1,Medium,Kolkata,2023-12-05
+R00764,Lilavati Hospital,A-,5,Low,Patna,2024-10-17
+R00765,Ruby Hall Clinic,A+,5,High,Mumbai,2023-07-22
+R00766,Narayana Health,O+,2,High,Bangalore,2024-11-05
+R00767,Lilavati Hospital,O+,2,Medium,Mumbai,2023-05-26
+R00768,Aster CMI,A+,5,Low,Delhi,2023-02-06
+R00769,Ruby Hall Clinic,O+,5,Low,Thane,2023-02-16
+R00770,Kokilaben Dhirubhai Ambani,AB+,2,Medium,Udaipur,2023-01-05
+R00771,Medanta,B+,1,Critical,Jaipur,2024-10-11
+R00772,Safdarjung Hospital,O+,4,Low,Kolkata,2024-03-04
+R00773,Wockhardt,A+,2,Medium,Surat,2024-01-10
+R00774,Safdarjung Hospital,A+,2,High,Jaipur,2023-06-07
+R00775,Ruby Hall Clinic,B+,3,Critical,Pune,2024-06-26
+R00776,Sir Ganga Ram Hospital,O+,4,Low,Patna,2024-05-15
+R00777,Manipal Hospital,A+,2,High,Agra,2024-09-30
+R00778,Kokilaben Dhirubhai Ambani,A-,2,Low,Pune,2023-11-08
+R00779,Apollo Hospital,B+,2,Medium,Mumbai,2023-11-19
+R00780,Amrita Institute of Medical Sciences,O+,4,Medium,Ahmedabad,2024-06-12
+R00781,Safdarjung Hospital,AB+,5,Low,Nagpur,2023-11-27
+R00782,Manipal Hospital,O+,1,High,Kolkata,2024-12-29
+R00783,Fortis Healthcare,A+,2,Medium,Delhi,2023-01-19
+R00784,Christian Medical College,O+,2,Low,Pune,2024-03-15
+R00785,Aster CMI,A+,3,Medium,Nagpur,2023-09-05
+R00786,Manipal Hospital,A+,4,Low,Thane,2023-11-05
+R00787,Manipal Hospital,B+,1,Medium,Delhi,2023-05-17
+R00788,Kokilaben Dhirubhai Ambani,O+,1,Medium,Surat,2023-05-04
+R00789,Manipal Hospital,O+,1,Medium,Lucknow,2023-11-02
+R00790,Manipal Hospital,A-,1,Critical,Delhi,2023-01-23
+R00791,Sir Ganga Ram Hospital,A+,1,Medium,Kanpur,2023-04-09
+R00792,Medanta,B-,2,High,Jaipur,2024-11-19
+R00793,Christian Medical College,B-,1,Low,Mumbai,2024-05-15
+R00794,Aster CMI,O+,6,Critical,Hyderabad,2024-09-10
+R00795,Christian Medical College,O-,2,Medium,Nashik,2023-07-08
+R00796,Ruby Hall Clinic,B+,2,Low,Kolkata,2024-05-14
+R00797,Deenanath Mangeshkar,O-,2,Low,Pune,2024-09-02
+R00798,Apollo Hospital,A+,3,Critical,Bangalore,2023-10-09
+R00799,Lilavati Hospital,AB+,5,High,Chennai,2024-02-06
+R00800,Max Super Speciality,B+,3,High,Mumbai,2023-07-12
+R00801,AIIMS,O+,2,Low,Chennai,2024-03-07
+R00802,Manipal Hospital,B+,2,Low,Indore,2024-08-24
+R00803,Deenanath Mangeshkar,B-,4,High,Surat,2024-12-25
+R00804,Sir Ganga Ram Hospital,A+,5,High,Nagpur,2023-11-04
+R00805,Medanta,A+,1,High,Bangalore,2023-06-13
+R00806,AIIMS,A+,1,Low,Kolkata,2024-06-18
+R00807,Aster CMI,O+,3,Critical,Hyderabad,2023-08-11
+R00808,Narayana Health,O+,5,Low,Delhi,2024-08-17
+R00809,Kokilaben Dhirubhai Ambani,O+,2,High,Mumbai,2023-04-09
+R00810,Manipal Hospital,A+,2,High,Hyderabad,2024-08-27
+R00811,Christian Medical College,A+,1,Medium,Chennai,2024-11-12
+R00812,Fortis Healthcare,O+,2,Low,Agra,2023-12-23
+R00813,Sir Ganga Ram Hospital,AB+,3,Medium,Surat,2023-07-13
+R00814,Safdarjung Hospital,O+,4,Medium,Mumbai,2023-12-17
+R00815,Deenanath Mangeshkar,A+,2,Low,Ludhiana,2024-06-18
+R00816,Apollo Hospital,AB+,2,Medium,Ahmedabad,2024-09-16
+R00817,Safdarjung Hospital,O+,2,Medium,Pune,2023-12-15
+R00818,Wockhardt,O+,4,Medium,Mumbai,2023-07-09
+R00819,Sir Ganga Ram Hospital,O+,1,Medium,Bangalore,2024-11-28
+R00820,Safdarjung Hospital,O+,2,Low,Pune,2023-03-13
+R00821,Deenanath Mangeshkar,A-,2,Medium,Kolkata,2024-11-28
+R00822,Max Super Speciality,A+,2,High,Indore,2024-09-26
+R00823,Fortis Healthcare,AB+,3,Medium,Ahmedabad,2024-01-07
+R00824,Deenanath Mangeshkar,O+,4,Low,Pune,2023-05-23
+R00825,Manipal Hospital,O+,3,High,Surat,2023-12-07
+R00826,Max Super Speciality,O+,4,Medium,Thane,2023-09-28
+R00827,Wockhardt,O+,3,High,Mumbai,2024-01-12
+R00828,Jehangir Hospital,A+,2,Low,Hyderabad,2024-03-08
+R00829,Kokilaben Dhirubhai Ambani,O+,5,Medium,Kolkata,2024-08-06
+R00830,Lilavati Hospital,A-,1,Low,Pune,2023-02-06
+R00831,Sir Ganga Ram Hospital,A-,6,High,Delhi,2023-11-29
+R00832,Manipal Hospital,A-,6,Medium,Chennai,2023-08-19
+R00833,Sir Ganga Ram Hospital,A+,2,High,Bangalore,2023-03-02
+R00834,Max Super Speciality,O+,1,Critical,Vadodara,2023-07-14
+R00835,Lilavati Hospital,O+,3,Critical,Surat,2024-06-30
+R00836,AIIMS,O+,3,High,Agra,2023-09-04
+R00837,Kokilaben Dhirubhai Ambani,A+,3,High,Udaipur,2024-02-16
+R00838,Ruby Hall Clinic,A+,2,High,Pune,2024-03-24
+R00839,Fortis Healthcare,O+,2,Medium,Ahmedabad,2023-08-27
+R00840,AIIMS,B+,3,Critical,Mumbai,2023-02-10
+R00841,KEM Hospital,O+,4,High,Bangalore,2023-10-24
+R00842,Max Super Speciality,A-,1,Medium,Jaipur,2023-05-12
+R00843,Apollo Hospital,B-,2,Medium,Hyderabad,2023-01-21
+R00844,Deenanath Mangeshkar,AB-,1,High,Bhopal,2023-03-05
+R00845,Christian Medical College,O+,1,Critical,Mumbai,2023-10-28
+R00846,Jehangir Hospital,A+,2,Low,Pune,2024-12-31
+R00847,Fortis Healthcare,A+,3,High,Mumbai,2024-04-14
+R00848,Wockhardt,A+,4,High,Coimbatore,2023-12-23
+R00849,Safdarjung Hospital,B+,2,High,Ahmedabad,2024-04-11
+R00850,Max Super Speciality,B+,2,High,Mumbai,2024-01-02
+R00851,Ruby Hall Clinic,O+,1,High,Bangalore,2023-12-07
+R00852,Rajiv Gandhi Government Hospital,A+,1,High,Bangalore,2024-04-13
+R00853,Max Super Speciality,A+,1,High,Hyderabad,2024-02-02
+R00854,Medanta,O+,4,Medium,Delhi,2024-03-20
+R00855,Amrita Institute of Medical Sciences,A+,1,Critical,Mumbai,2024-01-14
+R00856,Aster CMI,AB-,1,High,Ahmedabad,2024-03-07
+R00857,Wockhardt,B+,1,Low,Kanpur,2023-11-22
+R00858,Medanta,A+,1,High,Mumbai,2023-03-18
+R00859,Narayana Health,A+,2,Medium,Hyderabad,2024-10-25
+R00860,KEM Hospital,O+,2,Medium,Delhi,2024-07-15
+R00861,Manipal Hospital,B+,2,Low,Nagpur,2024-08-30
+R00862,Apollo Hospital,B+,5,Medium,Bhopal,2023-04-12
+R00863,Christian Medical College,B-,6,Low,Lucknow,2023-03-18
+R00864,Apollo Hospital,A-,4,Medium,Kanpur,2023-03-02
+R00865,Deenanath Mangeshkar,A+,5,Critical,Kolkata,2024-10-01
+R00866,Medanta,A+,2,High,Thane,2024-12-18
+R00867,Christian Medical College,O+,4,High,Agra,2023-12-10
+R00868,Sir Ganga Ram Hospital,B+,2,High,Delhi,2024-10-13
+R00869,Medanta,B+,2,Medium,Mumbai,2023-09-24
+R00870,Jehangir Hospital,AB+,5,Medium,Kanpur,2024-02-08
+R00871,Medanta,A+,3,Medium,Vadodara,2023-03-13
+R00872,Sir Ganga Ram Hospital,B+,1,High,Kanpur,2023-10-05
+R00873,Ruby Hall Clinic,AB+,2,Medium,Chennai,2023-08-28
+R00874,Manipal Hospital,A+,2,Critical,Mumbai,2024-12-08
+R00875,AIIMS,A+,3,Low,Jaipur,2024-01-03
+R00876,Wockhardt,O+,2,High,Bangalore,2023-04-10
+R00877,Ruby Hall Clinic,O+,1,Medium,Pune,2024-03-18
+R00878,Manipal Hospital,A+,3,Low,Lucknow,2024-04-01
+R00879,Ruby Hall Clinic,O+,1,Medium,Nagpur,2024-01-26
+R00880,Jehangir Hospital,B+,4,Low,Ludhiana,2024-08-23
+R00881,Apollo Hospital,A+,3,Medium,Visakhapatnam,2023-10-05
+R00882,Rajiv Gandhi Government Hospital,A+,2,Medium,Nagpur,2024-11-01
+R00883,Jehangir Hospital,A+,1,Low,Indore,2024-06-25
+R00884,Wockhardt,B-,1,High,Bangalore,2024-10-25
+R00885,Apollo Hospital,O-,4,High,Ahmedabad,2024-03-14
+R00886,Fortis Healthcare,AB+,2,Low,Mumbai,2024-10-26
+R00887,Fortis Healthcare,A+,2,Medium,Surat,2023-08-12
+R00888,KEM Hospital,O+,4,High,Hyderabad,2024-08-27
+R00889,Narayana Health,B+,2,Critical,Rajkot,2024-03-17
+R00890,Manipal Hospital,A-,2,High,Pune,2023-03-11
+R00891,Medanta,B+,3,Medium,Ahmedabad,2024-12-16
+R00892,Ruby Hall Clinic,O-,1,Critical,Jaipur,2024-03-26
+R00893,Amrita Institute of Medical Sciences,A+,5,High,Lucknow,2023-11-14
+R00894,Lilavati Hospital,A-,1,Low,Kolkata,2023-01-15
+R00895,AIIMS,A-,6,Medium,Chennai,2024-12-13
+R00896,Fortis Healthcare,B+,2,Low,Chennai,2023-01-24
+R00897,Aster CMI,O+,4,High,Hyderabad,2023-04-18
+R00898,Amrita Institute of Medical Sciences,O+,2,Medium,Nashik,2023-07-01
+R00899,Sir Ganga Ram Hospital,B-,5,Critical,Bangalore,2023-02-06
+R00900,Deenanath Mangeshkar,A-,4,Low,Chennai,2024-03-15
+R00901,Aster CMI,B+,5,Low,Chennai,2023-07-28
+R00902,Narayana Health,AB-,1,Low,Bangalore,2024-05-20
+R00903,Fortis Healthcare,B+,2,Critical,Kolkata,2023-06-24
+R00904,Safdarjung Hospital,A+,1,Critical,Bhopal,2024-05-19
+R00905,KEM Hospital,AB+,1,High,Mumbai,2023-01-06
+R00906,Apollo Hospital,O+,3,Medium,Agra,2024-02-19
+R00907,KEM Hospital,B+,2,Medium,Pune,2024-12-22
+R00908,Christian Medical College,B+,1,Low,Mumbai,2023-03-28
+R00909,Fortis Healthcare,A-,2,Medium,Bangalore,2024-09-05
+R00910,AIIMS,O+,2,Medium,Bangalore,2024-02-13
+R00911,Deenanath Mangeshkar,A+,1,Critical,Delhi,2024-04-22
+R00912,Medanta,O+,3,Critical,Hyderabad,2023-02-08
+R00913,Jehangir Hospital,B+,2,High,Visakhapatnam,2023-11-06
+R00914,Christian Medical College,A+,2,Medium,Delhi,2024-06-27
+R00915,Christian Medical College,O+,5,Low,Thane,2024-10-01
+R00916,Wockhardt,B+,1,Medium,Surat,2023-10-09
+R00917,Safdarjung Hospital,A+,2,High,Mumbai,2023-08-27
+R00918,Kokilaben Dhirubhai Ambani,AB+,1,Medium,Mumbai,2023-11-07
+R00919,Lilavati Hospital,O+,2,Medium,Bangalore,2024-03-27
+R00920,KEM Hospital,O-,2,High,Mumbai,2023-03-05
+R00921,Deenanath Mangeshkar,B+,2,High,Indore,2023-11-10
+R00922,Medanta,A+,3,Critical,Kolkata,2023-09-19
+R00923,Rajiv Gandhi Government Hospital,O+,2,Medium,Delhi,2023-06-19
+R00924,AIIMS,A+,2,Medium,Delhi,2024-02-14
+R00925,Rajiv Gandhi Government Hospital,A+,2,Critical,Agra,2024-03-12
+R00926,AIIMS,AB+,1,Low,Kolkata,2023-02-15
+R00927,Deenanath Mangeshkar,B+,2,High,Chennai,2024-09-28
+R00928,Wockhardt,O+,3,Medium,Hyderabad,2024-03-07
+R00929,Fortis Healthcare,O+,3,High,Bangalore,2023-09-14
+R00930,Lilavati Hospital,B+,5,Medium,Bangalore,2024-12-06
+R00931,Kokilaben Dhirubhai Ambani,O+,2,Low,Delhi,2023-07-23
+R00932,Max Super Speciality,O+,6,High,Ahmedabad,2024-06-19
+R00933,Amrita Institute of Medical Sciences,O-,3,Medium,Kolkata,2023-05-21
+R00934,Lilavati Hospital,A+,4,High,Rajkot,2024-07-23
+R00935,Deenanath Mangeshkar,A+,5,Medium,Nashik,2023-01-18
+R00936,KEM Hospital,A+,3,Medium,Mumbai,2023-10-26
+R00937,KEM Hospital,A+,3,Medium,Nashik,2023-03-05
+R00938,Aster CMI,O-,1,Medium,Bangalore,2023-10-11
+R00939,Wockhardt,O-,2,Critical,Delhi,2023-09-15
+R00940,KEM Hospital,O+,1,Medium,Delhi,2024-07-27
+R00941,Wockhardt,O+,1,Low,Indore,2023-05-29
+R00942,Fortis Healthcare,B+,4,Medium,Hyderabad,2023-05-17
+R00943,Fortis Healthcare,A+,2,High,Bhopal,2024-12-29
+R00944,Fortis Healthcare,B+,4,High,Chennai,2023-01-01
+R00945,Ruby Hall Clinic,B+,3,Medium,Nagpur,2024-10-14
+R00946,Ruby Hall Clinic,B+,1,High,Ahmedabad,2023-08-11
+R00947,AIIMS,A-,4,Medium,Bangalore,2023-12-31
+R00948,AIIMS,B+,3,Medium,Delhi,2024-03-01
+R00949,Kokilaben Dhirubhai Ambani,O+,3,High,Indore,2023-06-10
+R00950,Medanta,A+,3,Medium,Pune,2024-06-24
+R00951,Ruby Hall Clinic,B+,1,Low,Nagpur,2023-03-03
+R00952,Kokilaben Dhirubhai Ambani,A+,4,Medium,Ahmedabad,2024-11-16
+R00953,Fortis Healthcare,O+,4,Medium,Hyderabad,2023-03-03
+R00954,Aster CMI,O+,5,Medium,Hyderabad,2023-07-27
+R00955,Lilavati Hospital,A+,3,Low,Chennai,2024-06-16
+R00956,Kokilaben Dhirubhai Ambani,B+,1,High,Chennai,2023-12-03
+R00957,Narayana Health,B+,2,Low,Nashik,2023-05-05
+R00958,Manipal Hospital,AB-,2,Medium,Chennai,2023-01-07
+R00959,Jehangir Hospital,B+,6,High,Ahmedabad,2024-10-22
+R00960,Wockhardt,O+,2,Medium,Bangalore,2024-05-05
+R00961,Apollo Hospital,B+,1,High,Indore,2023-09-22
+R00962,Lilavati Hospital,B+,3,High,Lucknow,2024-08-09
+R00963,Narayana Health,A+,3,High,Hyderabad,2024-11-03
+R00964,Deenanath Mangeshkar,O+,1,High,Surat,2023-09-26
+R00965,KEM Hospital,O+,5,Medium,Bangalore,2024-01-02
+R00966,Apollo Hospital,O-,1,Medium,Jaipur,2024-12-25
+R00967,Amrita Institute of Medical Sciences,B+,1,High,Lucknow,2024-12-08
+R00968,Aster CMI,A+,5,Critical,Bangalore,2024-07-07
+R00969,KEM Hospital,B+,1,Medium,Patna,2023-12-28
+R00970,Manipal Hospital,A-,4,Medium,Lucknow,2023-01-26
+R00971,Safdarjung Hospital,O+,2,High,Surat,2023-09-03
+R00972,Manipal Hospital,O+,3,Low,Visakhapatnam,2023-03-04
+R00973,Narayana Health,O+,3,Medium,Bangalore,2023-01-08
+R00974,Amrita Institute of Medical Sciences,O+,3,Medium,Ahmedabad,2024-10-04
+R00975,Ruby Hall Clinic,B-,1,Low,Lucknow,2024-04-07
+R00976,Medanta,AB-,2,Low,Bangalore,2024-05-14
+R00977,Deenanath Mangeshkar,B+,1,Medium,Mumbai,2024-07-17
+R00978,Max Super Speciality,B+,4,High,Pune,2024-02-21
+R00979,Rajiv Gandhi Government Hospital,B+,4,High,Mumbai,2024-01-23
+R00980,Narayana Health,B+,1,Medium,Kolkata,2023-03-06
+R00981,Max Super Speciality,A+,2,High,Bangalore,2024-12-08
+R00982,Narayana Health,A+,3,Medium,Indore,2023-06-23
+R00983,Jehangir Hospital,B-,2,Low,Jaipur,2024-08-14
+R00984,Manipal Hospital,O+,1,Medium,Delhi,2024-05-29
+R00985,Kokilaben Dhirubhai Ambani,AB+,2,Medium,Rajkot,2023-05-09
+R00986,Fortis Healthcare,B-,6,Medium,Vadodara,2024-03-26
+R00987,Kokilaben Dhirubhai Ambani,B+,2,Medium,Ahmedabad,2024-10-15
+R00988,Safdarjung Hospital,A+,2,High,Chennai,2024-04-12
+R00989,KEM Hospital,O-,1,Low,Coimbatore,2024-09-03
+R00990,Lilavati Hospital,A+,4,High,Thane,2023-03-13
+R00991,Rajiv Gandhi Government Hospital,A+,4,Low,Hyderabad,2023-10-20
+R00992,KEM Hospital,A+,6,Low,Mumbai,2023-11-19
+R00993,Aster CMI,B-,1,Critical,Nashik,2024-08-02
+R00994,Jehangir Hospital,A+,2,Medium,Jaipur,2023-01-27
+R00995,Sir Ganga Ram Hospital,AB+,1,Low,Rajkot,2023-04-30
+R00996,Safdarjung Hospital,A-,1,High,Agra,2023-09-07
+R00997,Lilavati Hospital,B+,6,High,Hyderabad,2023-01-09
+R00998,AIIMS,O+,1,High,Surat,2023-06-29
+R00999,Aster CMI,O+,4,Medium,Nashik,2024-04-06
+R01000,Wockhardt,AB+,4,Medium,Bangalore,2024-09-11
+R01001,Max Super Speciality,B+,3,Medium,Indore,2023-08-27
+R01002,Wockhardt,B+,3,High,Hyderabad,2023-05-09
+R01003,Aster CMI,A-,2,High,Mumbai,2023-08-10
+R01004,Rajiv Gandhi Government Hospital,A+,3,Medium,Ludhiana,2024-02-10
+R01005,KEM Hospital,O-,2,High,Thane,2024-03-23
+R01006,Narayana Health,A-,3,Low,Visakhapatnam,2024-11-16
+R01007,Ruby Hall Clinic,A+,5,High,Kolkata,2024-11-08
+R01008,Sir Ganga Ram Hospital,B+,3,Medium,Delhi,2024-04-04
+R01009,Kokilaben Dhirubhai Ambani,O+,1,Low,Ahmedabad,2023-01-24
+R01010,AIIMS,AB+,1,Low,Bangalore,2023-05-24
+R01011,Aster CMI,A+,1,Medium,Bangalore,2023-08-06
+R01012,Christian Medical College,O+,3,High,Kolkata,2023-03-03
+R01013,Manipal Hospital,O+,5,High,Kolkata,2023-04-07
+R01014,Sir Ganga Ram Hospital,AB+,3,Low,Delhi,2024-06-01
+R01015,Max Super Speciality,O+,2,Critical,Jaipur,2023-02-11
+R01016,Amrita Institute of Medical Sciences,O+,2,High,Surat,2024-01-12
+R01017,Fortis Healthcare,A+,3,Low,Rajkot,2024-07-26
+R01018,Narayana Health,O-,3,Low,Kolkata,2023-02-09
+R01019,Kokilaben Dhirubhai Ambani,O-,5,Medium,Mumbai,2024-11-29
+R01020,Max Super Speciality,O+,4,Low,Mumbai,2023-07-25
+R01021,Wockhardt,A+,2,High,Bangalore,2023-01-01
+R01022,Wockhardt,O+,2,High,Mumbai,2023-05-03
+R01023,Manipal Hospital,AB-,3,Medium,Lucknow,2024-09-30
+R01024,Amrita Institute of Medical Sciences,O+,2,Low,Chennai,2023-04-21
+R01025,Amrita Institute of Medical Sciences,O+,4,High,Vadodara,2023-02-18
+R01026,Aster CMI,B+,6,Medium,Bangalore,2024-03-02
+R01027,Christian Medical College,O+,2,Medium,Mumbai,2024-01-13
+R01028,Apollo Hospital,A+,5,Low,Thane,2024-08-06
+R01029,AIIMS,B+,2,Low,Chennai,2023-04-20
+R01030,Apollo Hospital,O-,3,High,Surat,2024-03-02
+R01031,Kokilaben Dhirubhai Ambani,B+,5,Medium,Jaipur,2023-07-20
+R01032,Jehangir Hospital,A+,1,Critical,Delhi,2024-08-20
+R01033,Apollo Hospital,A+,2,High,Delhi,2024-10-07
+R01034,Narayana Health,O-,3,Low,Indore,2023-06-26
+R01035,Safdarjung Hospital,O+,1,Medium,Pune,2024-10-24
+R01036,Jehangir Hospital,B+,2,Low,Udaipur,2023-09-29
+R01037,Ruby Hall Clinic,B+,3,High,Hyderabad,2023-04-10
+R01038,Deenanath Mangeshkar,A+,4,Medium,Kanpur,2023-12-07
+R01039,Christian Medical College,A+,1,High,Thane,2024-10-17
+R01040,Christian Medical College,A+,1,High,Mumbai,2024-06-09
+R01041,Apollo Hospital,B+,3,Medium,Indore,2024-12-04
+R01042,Aster CMI,A+,3,Low,Hyderabad,2024-06-03
+R01043,Kokilaben Dhirubhai Ambani,O+,3,High,Ahmedabad,2023-02-13
+R01044,KEM Hospital,AB+,3,Medium,Bangalore,2023-02-03
+R01045,Aster CMI,B+,2,Medium,Rajkot,2024-07-06
+R01046,Fortis Healthcare,O+,1,Critical,Jaipur,2024-07-11
+R01047,Manipal Hospital,A+,1,Low,Chennai,2023-03-26
+R01048,Narayana Health,B+,2,High,Thane,2024-10-19
+R01049,Safdarjung Hospital,A+,1,High,Mumbai,2024-04-14
+R01050,Max Super Speciality,O+,5,Critical,Rajkot,2023-12-24
+R01051,Lilavati Hospital,A+,3,Medium,Mumbai,2023-04-14
+R01052,Fortis Healthcare,O+,6,Medium,Mumbai,2023-01-03
+R01053,Manipal Hospital,O+,3,Medium,Hyderabad,2023-04-22
+R01054,Narayana Health,A+,3,High,Kolkata,2024-08-19
+R01055,Ruby Hall Clinic,A+,1,Low,Hyderabad,2024-08-08
+R01056,Manipal Hospital,A-,3,Medium,Chennai,2023-04-14
+R01057,Safdarjung Hospital,O+,2,Critical,Surat,2024-07-31
+R01058,Manipal Hospital,AB+,1,Critical,Visakhapatnam,2024-11-08
+R01059,Max Super Speciality,B+,1,Low,Bangalore,2024-03-17
+R01060,Kokilaben Dhirubhai Ambani,O-,4,Critical,Hyderabad,2023-06-11
+R01061,Jehangir Hospital,B+,4,Critical,Ahmedabad,2023-05-19
+R01062,Narayana Health,O+,2,Low,Ahmedabad,2024-07-31
+R01063,AIIMS,A+,1,High,Visakhapatnam,2023-03-20
+R01064,Deenanath Mangeshkar,A+,3,High,Rajkot,2024-03-05
+R01065,Deenanath Mangeshkar,AB+,5,High,Rajkot,2024-02-04
+R01066,Ruby Hall Clinic,AB-,2,Critical,Pune,2023-07-16
+R01067,Medanta,A-,4,Critical,Bangalore,2023-06-23
+R01068,Fortis Healthcare,O+,2,High,Kolkata,2024-10-20
+R01069,Apollo Hospital,O+,2,Medium,Surat,2024-08-08
+R01070,Medanta,O+,2,Critical,Mumbai,2023-10-04
+R01071,Deenanath Mangeshkar,B+,2,Critical,Pune,2023-12-06
+R01072,Narayana Health,B+,6,Critical,Kanpur,2024-04-23
+R01073,AIIMS,O+,5,Low,Mumbai,2024-08-19
+R01074,KEM Hospital,O+,3,Medium,Nagpur,2024-08-09
+R01075,Safdarjung Hospital,B+,2,High,Mumbai,2023-04-04
+R01076,Jehangir Hospital,B+,2,Medium,Rajkot,2024-09-29
+R01077,Manipal Hospital,A+,3,Critical,Delhi,2023-07-23
+R01078,Medanta,B+,3,Critical,Indore,2024-10-20
+R01079,AIIMS,O+,3,Medium,Delhi,2024-09-24
+R01080,Lilavati Hospital,B+,3,Critical,Delhi,2023-04-19
+R01081,KEM Hospital,B+,4,Low,Hyderabad,2024-05-17
+R01082,Manipal Hospital,A-,3,High,Bangalore,2024-01-24
+R01083,AIIMS,O+,1,Critical,Bangalore,2023-10-15
+R01084,Narayana Health,A+,4,High,Mumbai,2024-03-10
+R01085,KEM Hospital,B+,3,Medium,Bangalore,2024-05-04
+R01086,Amrita Institute of Medical Sciences,B+,1,Critical,Coimbatore,2024-11-10
+R01087,Manipal Hospital,B+,2,Medium,Kolkata,2024-11-07
+R01088,Rajiv Gandhi Government Hospital,B+,3,Medium,Pune,2024-10-28
+R01089,Wockhardt,B+,2,Medium,Kolkata,2023-07-08
+R01090,Sir Ganga Ram Hospital,A-,2,Low,Lucknow,2023-03-07
+R01091,Amrita Institute of Medical Sciences,O+,2,High,Surat,2024-09-24
+R01092,Christian Medical College,B+,2,Critical,Chennai,2023-08-11
+R01093,Amrita Institute of Medical Sciences,A+,4,Medium,Mumbai,2023-04-19
+R01094,Medanta,O-,1,Critical,Mumbai,2023-12-31
+R01095,Apollo Hospital,O+,3,Critical,Delhi,2024-05-10
+R01096,Lilavati Hospital,B+,1,Medium,Coimbatore,2024-08-06
+R01097,Narayana Health,O+,1,Critical,Delhi,2023-03-29
+R01098,Ruby Hall Clinic,O-,3,Medium,Vadodara,2024-03-17
+R01099,Jehangir Hospital,A-,3,Critical,Surat,2023-11-11
+R01100,Christian Medical College,AB+,2,Critical,Delhi,2024-06-23
+R01101,Deenanath Mangeshkar,B+,1,Medium,Mumbai,2024-07-12
+R01102,Wockhardt,B+,5,Medium,Agra,2023-11-26
+R01103,Sir Ganga Ram Hospital,B+,2,High,Mumbai,2023-05-14
+R01104,Safdarjung Hospital,B+,3,High,Visakhapatnam,2024-06-05
+R01105,Deenanath Mangeshkar,B-,1,High,Ahmedabad,2023-07-31
+R01106,KEM Hospital,B+,3,High,Lucknow,2023-01-27
+R01107,Rajiv Gandhi Government Hospital,AB+,2,Medium,Surat,2023-03-11
+R01108,Kokilaben Dhirubhai Ambani,A+,4,Medium,Bangalore,2024-05-14
+R01109,Deenanath Mangeshkar,A-,3,High,Delhi,2023-08-25
+R01110,Narayana Health,O-,2,High,Ahmedabad,2023-10-21
+R01111,Safdarjung Hospital,B+,2,High,Udaipur,2023-05-03
+R01112,Lilavati Hospital,O+,2,High,Kolkata,2024-03-27
+R01113,Narayana Health,B+,2,Critical,Bangalore,2024-06-14
+R01114,Max Super Speciality,O+,3,Low,Agra,2023-09-06
+R01115,Rajiv Gandhi Government Hospital,A+,2,High,Agra,2024-03-01
+R01116,Wockhardt,O+,2,High,Bhopal,2023-10-11
+R01117,Amrita Institute of Medical Sciences,O+,4,Critical,Chennai,2024-04-16
+R01118,Wockhardt,AB+,2,High,Vadodara,2023-11-13
+R01119,Max Super Speciality,A+,4,High,Udaipur,2023-07-20
+R01120,Christian Medical College,A+,1,Medium,Delhi,2023-12-26
+R01121,Deenanath Mangeshkar,B-,3,High,Pune,2024-01-27
+R01122,Medanta,B+,2,Low,Ahmedabad,2024-10-23
+R01123,Wockhardt,A-,2,High,Kolkata,2024-06-28
+R01124,Kokilaben Dhirubhai Ambani,A-,1,High,Lucknow,2023-06-09
+R01125,Apollo Hospital,A+,1,Critical,Kolkata,2023-06-07
+R01126,Ruby Hall Clinic,B+,1,High,Mumbai,2024-08-07
+R01127,Max Super Speciality,O+,3,Medium,Hyderabad,2024-12-04
+R01128,Lilavati Hospital,AB+,2,High,Chennai,2024-04-07
+R01129,Max Super Speciality,A+,3,High,Mumbai,2023-06-14
+R01130,Medanta,O-,1,Medium,Kanpur,2023-07-19
+R01131,Christian Medical College,B+,2,Medium,Chennai,2024-02-11
+R01132,Safdarjung Hospital,O+,2,High,Surat,2023-12-10
+R01133,Christian Medical College,A+,5,Critical,Hyderabad,2023-09-14
+R01134,Medanta,A+,1,Medium,Agra,2023-02-04
+R01135,Fortis Healthcare,O+,5,High,Kolkata,2023-11-01
+R01136,Max Super Speciality,A+,3,Low,Bangalore,2024-01-07
+R01137,Christian Medical College,AB+,4,Low,Hyderabad,2024-04-29
+R01138,Wockhardt,B+,1,Low,Ahmedabad,2024-03-16
+R01139,Medanta,A+,1,Low,Surat,2023-07-02
+R01140,Fortis Healthcare,A+,5,Medium,Agra,2024-12-02
+R01141,Amrita Institute of Medical Sciences,B-,5,Medium,Delhi,2023-09-17
+R01142,Ruby Hall Clinic,B+,2,High,Hyderabad,2023-07-17
+R01143,Rajiv Gandhi Government Hospital,B+,4,Low,Pune,2023-03-26
+R01144,Deenanath Mangeshkar,B+,6,Low,Surat,2024-06-26
+R01145,Max Super Speciality,B+,1,High,Indore,2023-05-01
+R01146,Manipal Hospital,A+,5,Medium,Lucknow,2024-08-17
+R01147,Sir Ganga Ram Hospital,O-,2,High,Ahmedabad,2023-06-01
+R01148,Ruby Hall Clinic,O+,3,Medium,Bangalore,2023-01-31
+R01149,Ruby Hall Clinic,B-,2,High,Bangalore,2024-09-16
+R01150,Medanta,A+,2,High,Bangalore,2024-12-31
+R01151,Manipal Hospital,B+,2,High,Nagpur,2023-11-15
+R01152,Manipal Hospital,B-,1,Low,Surat,2023-02-27
+R01153,Amrita Institute of Medical Sciences,A+,4,Medium,Surat,2024-01-30
+R01154,Fortis Healthcare,O+,1,Medium,Hyderabad,2023-03-16
+R01155,Wockhardt,O+,2,Critical,Chennai,2024-10-26
+R01156,Sir Ganga Ram Hospital,O+,2,Low,Nagpur,2023-09-29
+R01157,Fortis Healthcare,AB-,2,High,Delhi,2024-04-14
+R01158,Lilavati Hospital,O+,5,Low,Ahmedabad,2023-06-22
+R01159,Kokilaben Dhirubhai Ambani,A-,4,Low,Rajkot,2024-11-14
+R01160,Wockhardt,A+,5,Critical,Thane,2024-07-04
+R01161,Ruby Hall Clinic,O+,3,High,Jaipur,2023-11-24
+R01162,AIIMS,B+,4,Critical,Delhi,2024-09-11
+R01163,Wockhardt,B+,3,High,Kolkata,2023-07-04
+R01164,AIIMS,O+,2,High,Chennai,2024-08-18
+R01165,Manipal Hospital,A+,5,High,Delhi,2024-09-13
+R01166,Rajiv Gandhi Government Hospital,B-,6,High,Bangalore,2023-12-05
+R01167,Medanta,B+,1,High,Kolkata,2024-05-11
+R01168,KEM Hospital,B+,6,Low,Agra,2024-06-17
+R01169,Safdarjung Hospital,A+,1,Low,Chennai,2024-08-22
+R01170,Rajiv Gandhi Government Hospital,B+,2,High,Bangalore,2023-07-19
+R01171,Christian Medical College,B+,1,High,Lucknow,2024-10-11
+R01172,Apollo Hospital,B+,2,Critical,Kolkata,2024-06-14
+R01173,Fortis Healthcare,B+,1,High,Jaipur,2023-09-02
+R01174,Amrita Institute of Medical Sciences,O-,1,High,Delhi,2023-01-14
+R01175,Amrita Institute of Medical Sciences,A-,1,Critical,Bhopal,2023-01-06
+R01176,Kokilaben Dhirubhai Ambani,B+,1,Critical,Vadodara,2023-03-31
+R01177,Rajiv Gandhi Government Hospital,A-,4,High,Thane,2023-06-30
+R01178,KEM Hospital,A+,3,Low,Delhi,2024-02-22
+R01179,Manipal Hospital,A+,3,Medium,Hyderabad,2024-03-02
+R01180,KEM Hospital,O+,1,Medium,Indore,2024-08-10
+R01181,AIIMS,B+,4,Medium,Mumbai,2024-06-11
+R01182,Jehangir Hospital,B+,5,Medium,Hyderabad,2024-10-07
+R01183,Amrita Institute of Medical Sciences,O+,2,Medium,Mumbai,2023-02-01
+R01184,Ruby Hall Clinic,AB+,3,High,Bangalore,2023-08-25
+R01185,Manipal Hospital,O+,1,High,Udaipur,2023-12-04
+R01186,Manipal Hospital,B+,3,Medium,Bangalore,2023-08-27
+R01187,Max Super Speciality,A+,4,Low,Kolkata,2023-06-01
+R01188,Ruby Hall Clinic,B+,3,Medium,Bangalore,2023-04-09
+R01189,Kokilaben Dhirubhai Ambani,A+,2,Critical,Indore,2024-03-29
+R01190,AIIMS,B+,2,Medium,Surat,2024-12-20
+R01191,Aster CMI,O-,5,High,Delhi,2024-08-30
+R01192,Aster CMI,B+,4,High,Jaipur,2023-01-05
+R01193,Narayana Health,B-,5,Medium,Delhi,2024-02-09
+R01194,Sir Ganga Ram Hospital,A+,5,Critical,Rajkot,2023-03-29
+R01195,Max Super Speciality,A+,3,Critical,Mumbai,2024-08-10
+R01196,Fortis Healthcare,B+,4,Low,Bangalore,2024-01-09
+R01197,Aster CMI,O+,6,Medium,Chennai,2024-06-04
+R01198,Wockhardt,B+,2,Medium,Coimbatore,2024-03-06
+R01199,Ruby Hall Clinic,A+,6,High,Nagpur,2024-09-03
+R01200,Manipal Hospital,A+,1,High,Chennai,2023-07-08
+R01201,Max Super Speciality,O+,4,High,Hyderabad,2023-12-22
+R01202,Kokilaben Dhirubhai Ambani,O+,6,High,Surat,2023-07-21
+R01203,Sir Ganga Ram Hospital,B+,1,Medium,Mumbai,2024-03-16
+R01204,Manipal Hospital,O+,1,Critical,Indore,2023-10-07
+R01205,Max Super Speciality,A-,4,Medium,Delhi,2024-10-23
+R01206,AIIMS,A+,3,Low,Visakhapatnam,2024-06-09
+R01207,Kokilaben Dhirubhai Ambani,A+,2,Critical,Surat,2023-08-27
+R01208,Christian Medical College,A+,5,Medium,Hyderabad,2023-06-30
+R01209,Sir Ganga Ram Hospital,B+,1,Medium,Nagpur,2024-06-02
+R01210,AIIMS,B+,6,High,Mumbai,2023-11-27
+R01211,Narayana Health,A+,6,Critical,Chennai,2024-11-19
+R01212,AIIMS,A+,5,High,Chennai,2024-11-20
+R01213,Kokilaben Dhirubhai Ambani,A+,2,Critical,Ludhiana,2023-12-23
+R01214,Lilavati Hospital,A+,5,Medium,Hyderabad,2023-08-05
+R01215,Max Super Speciality,A+,2,High,Nashik,2023-11-06
+R01216,Manipal Hospital,A+,1,Low,Pune,2024-11-21
+R01217,Kokilaben Dhirubhai Ambani,O+,2,Medium,Delhi,2024-08-29
+R01218,Wockhardt,O+,2,Medium,Mumbai,2023-11-07
+R01219,Christian Medical College,O-,3,Medium,Ahmedabad,2023-04-13
+R01220,Narayana Health,O+,3,High,Mumbai,2024-01-14
+R01221,Aster CMI,B+,1,High,Ludhiana,2024-03-04
+R01222,Jehangir Hospital,B+,2,High,Kolkata,2023-08-17
+R01223,Apollo Hospital,B+,2,High,Ahmedabad,2024-03-15
+R01224,Lilavati Hospital,A+,2,Critical,Chennai,2024-11-15
+R01225,Jehangir Hospital,A+,3,Low,Kolkata,2023-01-05
+R01226,Medanta,A+,1,Medium,Ahmedabad,2023-03-21
+R01227,Ruby Hall Clinic,AB+,3,Medium,Bhopal,2023-01-01
+R01228,Fortis Healthcare,B+,2,Medium,Rajkot,2023-05-25
+R01229,Max Super Speciality,A+,3,Low,Delhi,2024-09-22
+R01230,Aster CMI,O+,3,Low,Pune,2024-04-08
+R01231,Apollo Hospital,A+,5,Low,Ahmedabad,2023-09-22
+R01232,Wockhardt,A+,1,Critical,Jaipur,2024-01-08
+R01233,Kokilaben Dhirubhai Ambani,B+,2,Critical,Rajkot,2023-01-02
+R01234,Kokilaben Dhirubhai Ambani,O+,1,Medium,Mumbai,2024-07-08
+R01235,Aster CMI,O+,2,High,Chennai,2024-05-03
+R01236,Narayana Health,AB+,1,Critical,Bhopal,2024-08-18
+R01237,Wockhardt,O+,2,High,Nashik,2024-09-23
+R01238,Aster CMI,A+,1,Medium,Nagpur,2023-12-05
+R01239,Manipal Hospital,A+,3,Low,Delhi,2023-08-04
+R01240,Sir Ganga Ram Hospital,A+,5,Medium,Kolkata,2023-11-13
+R01241,Max Super Speciality,B+,5,Medium,Surat,2024-08-15
+R01242,Wockhardt,B+,2,High,Indore,2024-06-08
+R01243,Aster CMI,B-,3,Medium,Thane,2023-05-26
+R01244,Sir Ganga Ram Hospital,B+,2,High,Bangalore,2024-02-21
+R01245,Jehangir Hospital,A+,2,High,Kolkata,2023-04-29
+R01246,Wockhardt,AB+,6,Medium,Lucknow,2023-12-07
+R01247,Christian Medical College,O+,2,High,Ludhiana,2024-03-11
+R01248,Safdarjung Hospital,A+,2,Medium,Indore,2023-09-27
+R01249,Manipal Hospital,B-,2,High,Mumbai,2024-04-17
+R01250,Sir Ganga Ram Hospital,A+,3,Medium,Lucknow,2024-08-17
+R01251,Christian Medical College,A+,3,High,Hyderabad,2023-11-16
+R01252,Fortis Healthcare,B+,3,Medium,Agra,2023-11-14
+R01253,Safdarjung Hospital,B+,6,High,Ahmedabad,2023-05-27
+R01254,Medanta,B+,3,Medium,Bangalore,2024-01-14
+R01255,Sir Ganga Ram Hospital,B+,2,Low,Lucknow,2023-01-21
+R01256,Fortis Healthcare,O+,6,Medium,Chennai,2023-08-26
+R01257,Rajiv Gandhi Government Hospital,B+,2,Medium,Surat,2024-09-14
+R01258,Wockhardt,A+,4,Low,Mumbai,2024-12-21
+R01259,Rajiv Gandhi Government Hospital,O+,1,Medium,Mumbai,2023-01-24
+R01260,Max Super Speciality,O-,2,Critical,Bangalore,2024-02-22
+R01261,Fortis Healthcare,O+,2,Medium,Delhi,2024-05-26
+R01262,AIIMS,AB+,4,High,Delhi,2023-11-22
+R01263,Wockhardt,A+,1,Medium,Mumbai,2024-12-05
+R01264,Deenanath Mangeshkar,B+,1,Medium,Mumbai,2024-11-21
+R01265,Manipal Hospital,O-,1,Medium,Kanpur,2023-11-26
+R01266,Rajiv Gandhi Government Hospital,A+,2,Medium,Surat,2024-09-19
+R01267,Narayana Health,B+,2,Low,Bangalore,2024-07-11
+R01268,Safdarjung Hospital,A+,2,High,Bangalore,2023-09-09
+R01269,Christian Medical College,B+,5,High,Nagpur,2023-03-09
+R01270,Safdarjung Hospital,A+,1,Critical,Bangalore,2023-02-24
+R01271,Ruby Hall Clinic,B+,3,Medium,Mumbai,2023-02-20
+R01272,Fortis Healthcare,O+,1,Medium,Surat,2024-08-18
+R01273,Max Super Speciality,O+,6,Medium,Pune,2023-10-25
+R01274,Sir Ganga Ram Hospital,AB+,2,Medium,Nagpur,2023-07-19
+R01275,Fortis Healthcare,O+,6,Medium,Bangalore,2024-10-07
+R01276,Manipal Hospital,B+,4,Critical,Ludhiana,2024-07-14
+R01277,Apollo Hospital,A+,5,Medium,Visakhapatnam,2024-01-28
+R01278,KEM Hospital,O-,5,Medium,Pune,2023-03-10
+R01279,AIIMS,B+,3,Low,Lucknow,2024-11-22
+R01280,Manipal Hospital,O-,5,High,Pune,2023-03-04
+R01281,Christian Medical College,A+,3,Low,Pune,2024-02-13
+R01282,Wockhardt,A+,2,Low,Indore,2024-11-17
+R01283,Kokilaben Dhirubhai Ambani,B+,3,Low,Bangalore,2023-11-14
+R01284,Narayana Health,O+,5,Medium,Jaipur,2023-12-24
+R01285,Christian Medical College,B+,3,High,Delhi,2024-08-29
+R01286,KEM Hospital,O+,3,Low,Thane,2023-08-26
+R01287,Wockhardt,A+,3,High,Delhi,2024-05-01
+R01288,Apollo Hospital,A+,3,Medium,Mumbai,2024-10-20
+R01289,Ruby Hall Clinic,B+,3,Medium,Ahmedabad,2024-06-17
+R01290,Apollo Hospital,O-,2,Medium,Bangalore,2023-04-02
+R01291,Medanta,A+,2,Low,Bangalore,2024-06-16
+R01292,Safdarjung Hospital,A+,3,Low,Hyderabad,2023-10-30
+R01293,KEM Hospital,B-,3,Medium,Surat,2024-02-05
+R01294,Wockhardt,B-,3,Medium,Bangalore,2024-07-14
+R01295,Wockhardt,A+,3,High,Mumbai,2023-04-25
+R01296,Amrita Institute of Medical Sciences,O+,1,High,Hyderabad,2024-05-18
+R01297,Safdarjung Hospital,A+,4,Medium,Mumbai,2024-12-08
+R01298,Max Super Speciality,O+,3,Medium,Rajkot,2023-06-24
+R01299,Wockhardt,AB+,4,Medium,Hyderabad,2023-05-18
+R01300,Lilavati Hospital,O+,3,Critical,Lucknow,2024-06-26
+R01301,Kokilaben Dhirubhai Ambani,A+,1,Critical,Rajkot,2024-12-08
+R01302,Fortis Healthcare,A+,6,Low,Lucknow,2023-03-11
+R01303,Aster CMI,B+,4,High,Vadodara,2024-09-01
+R01304,Manipal Hospital,O+,2,Medium,Udaipur,2023-04-28
+R01305,Jehangir Hospital,B+,4,Low,Lucknow,2024-09-13
+R01306,Medanta,A+,1,Critical,Nagpur,2023-01-24
+R01307,Amrita Institute of Medical Sciences,B+,3,Critical,Ahmedabad,2024-06-29
+R01308,Max Super Speciality,A-,4,High,Delhi,2023-06-14
+R01309,Safdarjung Hospital,O+,1,Medium,Ahmedabad,2023-12-22
+R01310,Ruby Hall Clinic,B+,1,Medium,Ahmedabad,2023-12-25
+R01311,Amrita Institute of Medical Sciences,O+,1,Low,Delhi,2023-11-30
+R01312,Narayana Health,O+,2,Low,Pune,2023-03-18
+R01313,Deenanath Mangeshkar,B+,4,Low,Indore,2023-07-20
+R01314,Narayana Health,A+,4,High,Rajkot,2024-03-03
+R01315,Jehangir Hospital,B+,2,High,Chennai,2024-05-24
+R01316,Apollo Hospital,O+,2,Medium,Surat,2024-05-12
+R01317,Ruby Hall Clinic,O+,2,Medium,Patna,2023-02-23
+R01318,AIIMS,O+,1,Medium,Jaipur,2023-12-12
+R01319,Jehangir Hospital,AB+,2,Critical,Mumbai,2023-12-06
+R01320,Amrita Institute of Medical Sciences,B+,2,High,Patna,2024-01-22
+R01321,Ruby Hall Clinic,B-,2,Critical,Visakhapatnam,2023-11-03
+R01322,Medanta,B+,2,Critical,Nashik,2024-06-03
+R01323,Aster CMI,B+,1,Medium,Hyderabad,2024-04-20
+R01324,Medanta,A+,1,High,Lucknow,2024-09-21
+R01325,Safdarjung Hospital,O+,1,Medium,Delhi,2023-08-18
+R01326,Ruby Hall Clinic,A-,6,Low,Surat,2024-12-17
+R01327,Aster CMI,B+,6,Critical,Delhi,2023-09-07
+R01328,Christian Medical College,B+,4,Medium,Patna,2023-09-27
+R01329,Amrita Institute of Medical Sciences,A+,5,High,Hyderabad,2024-11-20
+R01330,Safdarjung Hospital,B-,2,Low,Indore,2023-09-04
+R01331,Narayana Health,A+,3,Medium,Rajkot,2024-05-27
+R01332,Jehangir Hospital,AB+,3,High,Jaipur,2023-03-10
+R01333,Amrita Institute of Medical Sciences,O+,3,Critical,Hyderabad,2024-10-25
+R01334,Aster CMI,B+,1,Low,Pune,2024-11-26
+R01335,AIIMS,A+,2,High,Pune,2024-07-15
+R01336,Max Super Speciality,A+,1,Low,Pune,2023-03-06
+R01337,Christian Medical College,A+,2,Medium,Chennai,2023-01-27
+R01338,Apollo Hospital,A+,2,Low,Ludhiana,2024-11-16
+R01339,Max Super Speciality,O+,3,Medium,Hyderabad,2024-10-12
+R01340,Wockhardt,A-,3,High,Lucknow,2023-01-29
+R01341,Narayana Health,A+,2,Medium,Kolkata,2024-11-19
+R01342,Medanta,A+,1,Medium,Delhi,2023-11-03
+R01343,Medanta,A+,2,Low,Bangalore,2024-06-10
+R01344,Deenanath Mangeshkar,A-,2,High,Ahmedabad,2023-02-06
+R01345,Max Super Speciality,O+,2,Low,Hyderabad,2023-11-15
+R01346,Wockhardt,B-,4,Medium,Jaipur,2024-04-13
+R01347,Christian Medical College,O-,6,Medium,Rajkot,2024-03-29
+R01348,AIIMS,O+,5,High,Mumbai,2024-02-16
+R01349,Max Super Speciality,A+,1,Medium,Bangalore,2024-01-09
+R01350,Amrita Institute of Medical Sciences,B-,2,Medium,Thane,2024-01-24
+R01351,Medanta,O+,2,Medium,Hyderabad,2024-07-05
+R01352,Manipal Hospital,B-,2,Low,Surat,2023-05-15
+R01353,Kokilaben Dhirubhai Ambani,B+,3,High,Mumbai,2024-07-30
+R01354,Rajiv Gandhi Government Hospital,B+,2,Critical,Mumbai,2023-07-02
+R01355,Manipal Hospital,A+,1,Medium,Delhi,2023-03-20
+R01356,Ruby Hall Clinic,B+,3,High,Patna,2024-08-23
+R01357,Amrita Institute of Medical Sciences,A+,2,High,Thane,2023-09-25
+R01358,Sir Ganga Ram Hospital,AB+,1,High,Hyderabad,2024-03-09
+R01359,Christian Medical College,O+,3,High,Patna,2023-10-03
+R01360,KEM Hospital,B+,2,Critical,Pune,2024-12-24
+R01361,AIIMS,A+,1,High,Pune,2024-11-09
+R01362,Medanta,AB+,1,Critical,Thane,2024-11-15
+R01363,Deenanath Mangeshkar,A-,1,Medium,Bangalore,2024-10-06
+R01364,KEM Hospital,A+,2,Medium,Indore,2024-05-16
+R01365,Amrita Institute of Medical Sciences,O+,3,Low,Bangalore,2024-05-11
+R01366,Medanta,A+,3,Low,Nagpur,2023-06-26
+R01367,Narayana Health,A+,2,High,Nashik,2023-02-25
+R01368,Max Super Speciality,A+,3,Medium,Bhopal,2023-11-22
+R01369,Kokilaben Dhirubhai Ambani,B-,3,Medium,Vadodara,2024-03-01
+R01370,Manipal Hospital,A+,3,High,Thane,2023-10-25
+R01371,Medanta,A+,2,High,Lucknow,2024-12-21
+R01372,Max Super Speciality,A+,2,Medium,Bangalore,2023-02-14
+R01373,Max Super Speciality,O-,1,Medium,Bhopal,2024-10-03
+R01374,Fortis Healthcare,A+,4,Medium,Bangalore,2023-08-18
+R01375,AIIMS,A+,2,High,Chennai,2024-12-25
+R01376,Jehangir Hospital,B+,2,Medium,Ludhiana,2023-08-27
+R01377,Manipal Hospital,AB+,3,Low,Mumbai,2023-12-09
+R01378,Narayana Health,B+,2,Critical,Kolkata,2024-01-12
+R01379,Fortis Healthcare,B+,2,Critical,Ahmedabad,2024-10-11
+R01380,Kokilaben Dhirubhai Ambani,A+,1,Low,Delhi,2023-05-16
+R01381,Aster CMI,B+,3,High,Lucknow,2024-10-13
+R01382,Lilavati Hospital,B-,5,High,Delhi,2023-04-30
+R01383,Kokilaben Dhirubhai Ambani,A+,2,Medium,Lucknow,2023-09-03
+R01384,Aster CMI,O+,1,Critical,Pune,2024-08-16
+R01385,Narayana Health,O+,2,Medium,Pune,2024-06-23
+R01386,Christian Medical College,B+,2,Medium,Jaipur,2024-11-15
+R01387,Fortis Healthcare,A-,2,High,Delhi,2023-05-31
+R01388,Max Super Speciality,O-,2,High,Bhopal,2024-11-26
+R01389,Kokilaben Dhirubhai Ambani,A+,4,High,Bangalore,2023-01-02
+R01390,Jehangir Hospital,A-,3,High,Patna,2023-11-09
+R01391,Aster CMI,A+,1,Critical,Hyderabad,2023-10-27
+R01392,Ruby Hall Clinic,O+,2,High,Vadodara,2024-06-30
+R01393,Apollo Hospital,B-,2,Low,Mumbai,2023-08-23
+R01394,AIIMS,B-,1,Medium,Chennai,2023-06-08
+R01395,Amrita Institute of Medical Sciences,B+,5,High,Bangalore,2024-09-15
+R01396,Rajiv Gandhi Government Hospital,AB+,2,Low,Kolkata,2024-05-14
+R01397,Wockhardt,O-,2,High,Nagpur,2023-05-05
+R01398,Apollo Hospital,A+,3,Low,Bangalore,2023-11-21
+R01399,Medanta,A-,2,Critical,Surat,2023-04-11
+R01400,Manipal Hospital,O+,1,High,Bangalore,2024-04-11
+R01401,Rajiv Gandhi Government Hospital,B+,1,Medium,Mumbai,2023-08-10
+R01402,Amrita Institute of Medical Sciences,A+,5,Medium,Visakhapatnam,2023-08-29
+R01403,Deenanath Mangeshkar,B-,1,Low,Surat,2024-05-16
+R01404,Aster CMI,O-,5,High,Delhi,2024-06-27
+R01405,Safdarjung Hospital,B+,5,Medium,Lucknow,2024-11-29
+R01406,AIIMS,O+,2,High,Coimbatore,2023-06-12
+R01407,Fortis Healthcare,O+,3,High,Rajkot,2023-04-13
+R01408,KEM Hospital,O+,6,Medium,Kolkata,2024-08-15
+R01409,Amrita Institute of Medical Sciences,O+,2,Medium,Kolkata,2024-09-08
+R01410,Lilavati Hospital,O+,2,Medium,Kolkata,2024-07-27
+R01411,Christian Medical College,A+,3,Low,Mumbai,2023-07-25
+R01412,Sir Ganga Ram Hospital,A+,1,Medium,Hyderabad,2023-11-13
+R01413,Deenanath Mangeshkar,A+,1,Critical,Chennai,2024-09-02
+R01414,Sir Ganga Ram Hospital,O+,1,Critical,Mumbai,2024-08-01
+R01415,Apollo Hospital,O+,3,Critical,Indore,2023-02-02
+R01416,Max Super Speciality,O+,2,High,Nagpur,2023-08-19
+R01417,KEM Hospital,A+,3,Medium,Bangalore,2024-11-04
+R01418,Rajiv Gandhi Government Hospital,A+,2,Low,Indore,2023-09-18
+R01419,Manipal Hospital,O+,1,Low,Nagpur,2023-05-02
+R01420,Christian Medical College,AB+,2,Medium,Ahmedabad,2024-07-06
+R01421,Christian Medical College,A+,6,Low,Mumbai,2023-04-25
+R01422,Kokilaben Dhirubhai Ambani,B+,2,Medium,Surat,2023-06-16
+R01423,Christian Medical College,A+,3,Low,Delhi,2024-01-29
+R01424,Sir Ganga Ram Hospital,O+,1,Low,Hyderabad,2024-07-07
+R01425,Wockhardt,B+,1,High,Pune,2024-08-13
+R01426,Safdarjung Hospital,A+,1,High,Visakhapatnam,2023-04-20
+R01427,Deenanath Mangeshkar,A+,2,Critical,Hyderabad,2023-05-28
+R01428,Ruby Hall Clinic,A+,1,Low,Surat,2023-04-10
+R01429,Apollo Hospital,A+,1,Low,Ahmedabad,2023-02-04
+R01430,Lilavati Hospital,B+,3,Low,Nagpur,2023-11-16
+R01431,Kokilaben Dhirubhai Ambani,AB+,4,Medium,Chennai,2024-07-15
+R01432,Safdarjung Hospital,O+,2,Low,Lucknow,2024-12-10
+R01433,Fortis Healthcare,O+,5,Critical,Kolkata,2023-08-21
+R01434,Sir Ganga Ram Hospital,A+,2,Low,Jaipur,2023-06-12
+R01435,AIIMS,A+,1,Medium,Chennai,2023-04-26
+R01436,AIIMS,O+,1,High,Nashik,2023-07-30
+R01437,Ruby Hall Clinic,A+,4,Medium,Bangalore,2023-02-07
+R01438,Wockhardt,O+,1,Low,Pune,2024-11-23
+R01439,Aster CMI,B+,6,Medium,Pune,2024-02-07
+R01440,AIIMS,B+,2,Critical,Surat,2023-08-16
+R01441,Sir Ganga Ram Hospital,O+,2,High,Ahmedabad,2023-02-24
+R01442,Medanta,O+,4,High,Udaipur,2023-10-16
+R01443,Jehangir Hospital,O-,2,High,Delhi,2024-03-23
+R01444,Rajiv Gandhi Government Hospital,A+,2,Medium,Visakhapatnam,2024-12-15
+R01445,Wockhardt,AB+,6,High,Lucknow,2023-10-12
+R01446,Fortis Healthcare,A+,2,Medium,Delhi,2023-06-24
+R01447,Narayana Health,O-,3,Medium,Bangalore,2024-01-11
+R01448,Amrita Institute of Medical Sciences,A+,4,Low,Ahmedabad,2023-03-27
+R01449,Sir Ganga Ram Hospital,A+,2,Medium,Ludhiana,2024-10-24
+R01450,AIIMS,B+,1,Critical,Kolkata,2023-08-16
+R01451,Christian Medical College,O+,3,High,Hyderabad,2023-08-29
+R01452,Aster CMI,O+,2,High,Mumbai,2024-10-16
+R01453,Kokilaben Dhirubhai Ambani,B+,1,Medium,Mumbai,2024-11-23
+R01454,KEM Hospital,O+,2,Medium,Jaipur,2024-12-21
+R01455,KEM Hospital,B+,3,High,Kolkata,2023-12-13
+R01456,Jehangir Hospital,B+,2,High,Hyderabad,2023-08-18
+R01457,Deenanath Mangeshkar,B+,3,Medium,Pune,2024-09-19
+R01458,Narayana Health,A+,5,Medium,Kanpur,2023-12-24
+R01459,Sir Ganga Ram Hospital,A+,2,High,Lucknow,2023-11-07
+R01460,Christian Medical College,B+,6,Low,Kolkata,2023-09-19
+R01461,Deenanath Mangeshkar,A+,2,Medium,Kolkata,2024-12-10
+R01462,Aster CMI,O+,1,Medium,Chennai,2023-07-05
+R01463,Ruby Hall Clinic,B+,6,Medium,Mumbai,2024-07-10
+R01464,Wockhardt,O+,1,Low,Indore,2023-09-25
+R01465,Medanta,O+,4,High,Vadodara,2024-11-26
+R01466,Amrita Institute of Medical Sciences,O+,3,Medium,Mumbai,2024-07-30
+R01467,Apollo Hospital,B+,5,Medium,Delhi,2023-04-19
+R01468,Amrita Institute of Medical Sciences,AB+,3,High,Nagpur,2024-01-12
+R01469,Wockhardt,O+,2,High,Mumbai,2024-05-12
+R01470,Ruby Hall Clinic,A+,1,Medium,Bhopal,2023-09-09
+R01471,Kokilaben Dhirubhai Ambani,A-,4,Critical,Mumbai,2024-02-22
+R01472,Narayana Health,A+,1,Critical,Coimbatore,2024-07-31
+R01473,Ruby Hall Clinic,B+,3,Medium,Chennai,2023-01-15
+R01474,Christian Medical College,O+,2,Critical,Delhi,2024-06-20
+R01475,Fortis Healthcare,A+,4,Low,Mumbai,2023-07-14
+R01476,KEM Hospital,AB+,2,Low,Kolkata,2023-04-14
+R01477,Lilavati Hospital,B-,2,Low,Jaipur,2024-05-02
+R01478,Manipal Hospital,B+,2,Medium,Mumbai,2024-08-07
+R01479,AIIMS,B+,1,Low,Kolkata,2023-02-18
+R01480,Rajiv Gandhi Government Hospital,O+,2,Critical,Lucknow,2024-03-29
+R01481,Sir Ganga Ram Hospital,A+,1,Medium,Surat,2024-06-09
+R01482,Safdarjung Hospital,B+,1,Critical,Surat,2023-03-15
+R01483,Deenanath Mangeshkar,B+,1,Medium,Kolkata,2023-09-07
+R01484,Manipal Hospital,A+,1,Critical,Bhopal,2023-06-03
+R01485,Amrita Institute of Medical Sciences,B-,1,Critical,Kanpur,2023-08-12
+R01486,Safdarjung Hospital,A+,5,Medium,Nagpur,2023-03-20
+R01487,Max Super Speciality,O+,1,High,Pune,2024-08-25
+R01488,AIIMS,AB+,1,Low,Chennai,2024-05-03
+R01489,Jehangir Hospital,A-,1,High,Bangalore,2023-03-25
+R01490,Christian Medical College,A+,2,Medium,Delhi,2023-04-25
+R01491,KEM Hospital,O+,3,Critical,Agra,2023-12-04
+R01492,Apollo Hospital,A+,4,High,Chennai,2024-05-11
+R01493,Ruby Hall Clinic,O+,2,Critical,Hyderabad,2024-09-01
+R01494,AIIMS,A-,4,Medium,Delhi,2023-06-10
+R01495,KEM Hospital,O+,1,Medium,Thane,2023-09-27
+R01496,Apollo Hospital,AB+,6,High,Nashik,2023-12-03
+R01497,Jehangir Hospital,A+,1,Low,Delhi,2023-05-22
+R01498,Aster CMI,A+,2,High,Delhi,2024-04-19
+R01499,Manipal Hospital,O+,1,Critical,Nashik,2023-07-18
+R01500,Manipal Hospital,A+,1,Critical,Mumbai,2024-10-14
+R01501,Kokilaben Dhirubhai Ambani,B+,2,Low,Kolkata,2024-04-18
+R01502,Apollo Hospital,O+,2,High,Delhi,2024-07-21
+R01503,Amrita Institute of Medical Sciences,O+,2,Critical,Mumbai,2023-11-03
+R01504,Deenanath Mangeshkar,B+,4,High,Pune,2024-02-05
+R01505,Amrita Institute of Medical Sciences,A+,4,Low,Pune,2023-06-10
+R01506,Fortis Healthcare,AB+,2,Medium,Hyderabad,2023-03-13
+R01507,Aster CMI,B+,4,Low,Delhi,2024-09-01
+R01508,Narayana Health,AB+,5,High,Coimbatore,2023-09-29
+R01509,Deenanath Mangeshkar,O+,1,High,Chennai,2023-09-09
+R01510,Sir Ganga Ram Hospital,B+,3,High,Delhi,2024-08-18
+R01511,Manipal Hospital,B+,5,Medium,Agra,2023-08-09
+R01512,Aster CMI,O+,2,Medium,Thane,2024-03-12
+R01513,Amrita Institute of Medical Sciences,A+,4,High,Lucknow,2023-11-09
+R01514,Kokilaben Dhirubhai Ambani,A-,3,High,Chennai,2024-10-05
+R01515,Max Super Speciality,O+,4,High,Nagpur,2023-06-09
+R01516,Narayana Health,O+,2,Low,Ahmedabad,2024-07-30
+R01517,Manipal Hospital,B-,6,High,Pune,2023-08-09
+R01518,Wockhardt,O+,2,Medium,Coimbatore,2023-08-12
+R01519,Amrita Institute of Medical Sciences,A+,6,Medium,Delhi,2024-06-20
+R01520,Wockhardt,O+,2,Low,Bhopal,2024-11-17
+R01521,Amrita Institute of Medical Sciences,A+,2,Critical,Delhi,2023-08-15
+R01522,Ruby Hall Clinic,AB+,1,Medium,Bangalore,2024-10-16
+R01523,Apollo Hospital,O+,1,High,Agra,2024-05-08
+R01524,KEM Hospital,O+,1,High,Mumbai,2023-12-31
+R01525,Amrita Institute of Medical Sciences,A+,2,Medium,Delhi,2023-09-07
+R01526,Aster CMI,B-,1,Medium,Mumbai,2024-02-19
+R01527,Wockhardt,O+,1,Low,Ahmedabad,2024-04-04
+R01528,Max Super Speciality,AB+,5,High,Bhopal,2023-05-21
+R01529,AIIMS,O+,1,Medium,Mumbai,2024-07-24
+R01530,Fortis Healthcare,A-,1,Medium,Visakhapatnam,2023-01-16
+R01531,Aster CMI,A+,2,High,Delhi,2024-01-20
+R01532,Safdarjung Hospital,B+,1,Medium,Chennai,2023-07-13
+R01533,Ruby Hall Clinic,O+,4,High,Delhi,2023-06-18
+R01534,Narayana Health,AB+,1,Medium,Bangalore,2023-03-31
+R01535,KEM Hospital,A+,4,Low,Chennai,2024-09-03
+R01536,Kokilaben Dhirubhai Ambani,A+,4,Low,Chennai,2023-04-22
+R01537,Christian Medical College,O+,1,Medium,Chennai,2023-05-18
+R01538,Max Super Speciality,O+,2,High,Surat,2024-01-26
+R01539,AIIMS,O+,2,High,Nagpur,2024-06-02
+R01540,Aster CMI,O+,5,Low,Nagpur,2024-09-01
+R01541,Kokilaben Dhirubhai Ambani,A-,1,Medium,Hyderabad,2024-04-30
+R01542,KEM Hospital,O+,5,Medium,Bangalore,2023-05-17
+R01543,Amrita Institute of Medical Sciences,AB-,2,Medium,Bhopal,2023-12-08
+R01544,Narayana Health,B-,2,Medium,Nashik,2023-07-11
+R01545,Manipal Hospital,AB-,1,Critical,Mumbai,2023-10-14
+R01546,Max Super Speciality,AB+,1,Low,Hyderabad,2024-02-14
+R01547,Wockhardt,B+,1,Medium,Chennai,2023-10-14
+R01548,Amrita Institute of Medical Sciences,O+,2,High,Lucknow,2024-03-26
+R01549,Medanta,O+,4,High,Delhi,2024-08-31
+R01550,Fortis Healthcare,O+,3,Medium,Pune,2023-01-09
+R01551,Sir Ganga Ram Hospital,B+,3,Low,Delhi,2023-12-26
+R01552,Sir Ganga Ram Hospital,AB+,2,Low,Delhi,2024-02-14
+R01553,Wockhardt,A+,1,High,Surat,2023-06-29
+R01554,Max Super Speciality,B+,1,Critical,Kanpur,2023-02-02
+R01555,Max Super Speciality,A+,2,Medium,Bhopal,2023-12-26
+R01556,Narayana Health,A+,4,Medium,Ahmedabad,2023-05-26
+R01557,Christian Medical College,A+,2,High,Delhi,2024-03-15
+R01558,Deenanath Mangeshkar,B-,5,High,Kolkata,2023-03-13
+R01559,Wockhardt,O+,5,Medium,Nashik,2023-08-09
+R01560,Wockhardt,A+,4,High,Surat,2023-02-27
+R01561,Aster CMI,O+,2,Medium,Agra,2023-06-28
+R01562,Sir Ganga Ram Hospital,AB+,3,High,Kolkata,2023-10-15
+R01563,Apollo Hospital,A+,3,Medium,Delhi,2023-06-07
+R01564,Rajiv Gandhi Government Hospital,B+,3,High,Nashik,2024-06-30
+R01565,Aster CMI,B+,1,Medium,Surat,2023-04-16
+R01566,Deenanath Mangeshkar,A+,4,Medium,Thane,2024-08-27
+R01567,Amrita Institute of Medical Sciences,O+,3,Medium,Hyderabad,2024-01-20
+R01568,Aster CMI,O-,6,Medium,Lucknow,2024-07-13
+R01569,Narayana Health,B-,1,High,Kolkata,2023-10-09
+R01570,AIIMS,A+,2,Medium,Pune,2023-03-27
+R01571,Medanta,B+,2,Low,Kanpur,2023-01-30
+R01572,Apollo Hospital,A+,3,Medium,Mumbai,2024-12-10
+R01573,Wockhardt,A+,3,Medium,Ahmedabad,2024-12-02
+R01574,AIIMS,A+,2,High,Patna,2024-11-05
+R01575,Deenanath Mangeshkar,O+,3,High,Mumbai,2023-03-05
+R01576,Narayana Health,O-,2,Medium,Lucknow,2023-03-22
+R01577,Apollo Hospital,A-,1,Medium,Coimbatore,2023-07-23
+R01578,Rajiv Gandhi Government Hospital,O+,2,High,Thane,2024-04-06
+R01579,Wockhardt,A-,4,Medium,Lucknow,2024-03-06
+R01580,Wockhardt,A+,1,Medium,Mumbai,2023-06-29
+R01581,Fortis Healthcare,O+,2,Medium,Vadodara,2023-07-21
+R01582,Ruby Hall Clinic,B+,5,Medium,Chennai,2024-01-24
+R01583,Apollo Hospital,O+,2,Low,Mumbai,2023-12-11
+R01584,Christian Medical College,A+,3,High,Chennai,2024-01-31
+R01585,Jehangir Hospital,B+,1,Critical,Kolkata,2023-06-01
+R01586,Sir Ganga Ram Hospital,B+,1,Medium,Kolkata,2023-12-21
+R01587,Kokilaben Dhirubhai Ambani,A-,1,Medium,Bangalore,2023-04-20
+R01588,Sir Ganga Ram Hospital,O+,3,Medium,Mumbai,2023-09-24
+R01589,Ruby Hall Clinic,A+,1,Critical,Kolkata,2024-08-20
+R01590,Apollo Hospital,AB-,5,Medium,Mumbai,2023-06-09
+R01591,Max Super Speciality,A+,3,Medium,Ahmedabad,2024-07-18
+R01592,AIIMS,AB+,3,Medium,Jaipur,2024-05-03
+R01593,Amrita Institute of Medical Sciences,A+,2,Low,Pune,2023-04-19
+R01594,Max Super Speciality,B+,4,Low,Delhi,2023-01-03
+R01595,Apollo Hospital,B+,1,Critical,Chennai,2024-03-07
+R01596,Aster CMI,O+,3,Critical,Kolkata,2024-12-01
+R01597,Aster CMI,AB+,1,Medium,Delhi,2023-03-30
+R01598,Jehangir Hospital,B+,2,Medium,Bangalore,2024-02-18
+R01599,Sir Ganga Ram Hospital,B+,1,Medium,Kolkata,2023-03-21
+R01600,Lilavati Hospital,O+,1,High,Thane,2024-08-06
+R01601,Jehangir Hospital,O+,4,Medium,Kanpur,2024-05-15
+R01602,Jehangir Hospital,AB+,3,Critical,Hyderabad,2024-05-18
+R01603,Jehangir Hospital,O+,4,High,Patna,2023-11-25
+R01604,Amrita Institute of Medical Sciences,A+,1,High,Indore,2023-08-08
+R01605,Sir Ganga Ram Hospital,B+,2,Medium,Mumbai,2024-07-01
+R01606,Narayana Health,O-,1,Medium,Patna,2023-07-19
+R01607,Apollo Hospital,A+,3,High,Mumbai,2024-02-16
+R01608,Deenanath Mangeshkar,O+,2,High,Jaipur,2024-06-01
+R01609,Narayana Health,B+,3,Medium,Nagpur,2023-11-19
+R01610,Sir Ganga Ram Hospital,O+,3,Medium,Delhi,2024-05-15
+R01611,Aster CMI,O+,2,Low,Delhi,2023-12-04
+R01612,Wockhardt,A-,1,Medium,Coimbatore,2023-02-10
+R01613,Ruby Hall Clinic,A+,2,Medium,Hyderabad,2024-11-12
+R01614,Amrita Institute of Medical Sciences,B+,3,High,Surat,2024-03-04
+R01615,Narayana Health,B-,2,Medium,Nagpur,2023-09-30
+R01616,Lilavati Hospital,A+,3,Medium,Bangalore,2023-12-14
+R01617,Lilavati Hospital,O+,2,Low,Kanpur,2024-10-17
+R01618,Manipal Hospital,B+,3,Medium,Mumbai,2024-04-14
+R01619,Ruby Hall Clinic,O+,2,Medium,Rajkot,2024-03-07
+R01620,Rajiv Gandhi Government Hospital,O+,3,Low,Nashik,2024-03-07
+R01621,Deenanath Mangeshkar,A+,4,Medium,Vadodara,2024-01-20
+R01622,Safdarjung Hospital,O+,2,Medium,Bangalore,2023-02-04
+R01623,KEM Hospital,O+,1,Medium,Agra,2023-04-25
+R01624,Fortis Healthcare,A+,3,High,Agra,2023-10-09
+R01625,Max Super Speciality,B+,5,Medium,Nagpur,2024-05-03
+R01626,Sir Ganga Ram Hospital,O+,1,Critical,Surat,2023-02-24
+R01627,Wockhardt,A-,1,Low,Ahmedabad,2024-03-22
+R01628,Rajiv Gandhi Government Hospital,B+,3,Medium,Ludhiana,2024-06-04
+R01629,Wockhardt,B-,4,Medium,Chennai,2023-11-08
+R01630,Deenanath Mangeshkar,AB+,3,Medium,Nagpur,2023-12-31
+R01631,Deenanath Mangeshkar,O+,5,Medium,Mumbai,2023-03-30
+R01632,Fortis Healthcare,A+,5,Medium,Bangalore,2024-09-18
+R01633,Christian Medical College,A+,4,Critical,Agra,2023-08-19
+R01634,Manipal Hospital,AB-,4,Medium,Pune,2023-07-29
+R01635,Safdarjung Hospital,B+,6,Low,Coimbatore,2024-03-11
+R01636,Apollo Hospital,A-,1,Low,Pune,2023-01-19
+R01637,Lilavati Hospital,B+,6,Low,Nashik,2024-10-18
+R01638,Kokilaben Dhirubhai Ambani,A+,4,Critical,Ludhiana,2023-04-09
+R01639,Lilavati Hospital,B+,1,High,Chennai,2023-04-08
+R01640,Jehangir Hospital,AB+,1,Medium,Pune,2024-05-02
+R01641,AIIMS,B-,6,Medium,Lucknow,2024-12-06
+R01642,Christian Medical College,O+,1,Medium,Thane,2024-11-27
+R01643,Sir Ganga Ram Hospital,A-,2,High,Kolkata,2023-11-21
+R01644,Christian Medical College,A+,2,Medium,Chennai,2024-12-12
+R01645,Aster CMI,O-,2,High,Delhi,2023-07-20
+R01646,Max Super Speciality,O-,2,High,Nagpur,2023-08-21
+R01647,Narayana Health,B+,3,Low,Surat,2023-07-15
+R01648,Lilavati Hospital,B-,6,Critical,Pune,2024-01-07
+R01649,KEM Hospital,O+,4,Medium,Patna,2023-02-02
+R01650,Medanta,A+,2,Low,Mumbai,2023-01-31
+R01651,Medanta,A+,5,Medium,Chennai,2023-09-15
+R01652,Narayana Health,A+,4,Critical,Kanpur,2023-07-29
+R01653,Max Super Speciality,O+,4,Medium,Mumbai,2024-03-26
+R01654,AIIMS,O+,4,Medium,Kolkata,2023-06-16
+R01655,Narayana Health,O+,3,Low,Chennai,2024-11-06
+R01656,Max Super Speciality,A+,2,Medium,Lucknow,2023-02-05
+R01657,Aster CMI,O+,5,Low,Bangalore,2023-03-24
+R01658,Christian Medical College,O-,2,Critical,Indore,2024-05-17
+R01659,Kokilaben Dhirubhai Ambani,O+,3,Low,Delhi,2024-11-09
+R01660,Aster CMI,B+,1,High,Lucknow,2024-10-21
+R01661,Rajiv Gandhi Government Hospital,A+,1,High,Delhi,2023-12-26
+R01662,Jehangir Hospital,B+,4,High,Ludhiana,2024-12-06
+R01663,Deenanath Mangeshkar,O+,2,Medium,Bhopal,2023-08-08
+R01664,Max Super Speciality,A+,1,Medium,Chennai,2024-04-19
+R01665,Amrita Institute of Medical Sciences,A+,4,Medium,Pune,2024-12-11
+R01666,Rajiv Gandhi Government Hospital,B+,3,Critical,Kanpur,2024-11-12
+R01667,Medanta,B+,3,High,Delhi,2024-03-10
+R01668,Sir Ganga Ram Hospital,B+,1,Low,Delhi,2023-10-25
+R01669,Fortis Healthcare,B-,2,Medium,Bangalore,2024-05-27
+R01670,Christian Medical College,O+,2,Medium,Bangalore,2023-12-15
+R01671,Safdarjung Hospital,O+,3,Low,Surat,2024-02-29
+R01672,Kokilaben Dhirubhai Ambani,AB-,3,High,Hyderabad,2024-05-13
+R01673,Manipal Hospital,A+,1,Medium,Delhi,2024-08-18
+R01674,Sir Ganga Ram Hospital,B+,2,High,Ludhiana,2023-01-27
+R01675,Wockhardt,O+,4,High,Rajkot,2024-06-28
+R01676,Aster CMI,O+,1,Medium,Kolkata,2024-01-31
+R01677,Sir Ganga Ram Hospital,O-,1,Medium,Bangalore,2023-10-22
+R01678,Deenanath Mangeshkar,A+,2,High,Bangalore,2023-12-21
+R01679,Lilavati Hospital,B+,3,High,Delhi,2023-11-10
+R01680,Wockhardt,B-,6,Medium,Indore,2023-11-19
+R01681,Manipal Hospital,A+,3,High,Chennai,2024-08-06
+R01682,Rajiv Gandhi Government Hospital,O+,2,Critical,Delhi,2023-09-17
+R01683,KEM Hospital,A+,1,Low,Rajkot,2024-11-27
+R01684,KEM Hospital,A+,4,Medium,Mumbai,2023-11-20
+R01685,Deenanath Mangeshkar,B+,3,High,Surat,2023-04-26
+R01686,Amrita Institute of Medical Sciences,B+,1,Low,Jaipur,2024-05-04
+R01687,Sir Ganga Ram Hospital,AB+,1,High,Thane,2024-09-19
+R01688,Safdarjung Hospital,B+,2,Medium,Delhi,2024-03-15
+R01689,Manipal Hospital,B+,2,Critical,Thane,2024-06-26
+R01690,Safdarjung Hospital,B-,1,Low,Chennai,2024-03-20
+R01691,Aster CMI,O+,1,Low,Hyderabad,2023-09-13
+R01692,Amrita Institute of Medical Sciences,O+,1,Medium,Lucknow,2024-10-08
+R01693,Manipal Hospital,O+,1,Medium,Kolkata,2024-01-04
+R01694,Amrita Institute of Medical Sciences,O+,2,Medium,Mumbai,2023-09-19
+R01695,Amrita Institute of Medical Sciences,O+,5,Medium,Ludhiana,2023-06-30
+R01696,Deenanath Mangeshkar,A+,1,Medium,Nagpur,2024-02-09
+R01697,Safdarjung Hospital,AB+,1,Critical,Ahmedabad,2023-07-09
+R01698,Safdarjung Hospital,B+,4,Low,Ahmedabad,2024-03-30
+R01699,Rajiv Gandhi Government Hospital,A+,1,Low,Surat,2024-09-08
+R01700,Christian Medical College,A+,2,Low,Rajkot,2024-10-29
+R01701,Lilavati Hospital,O+,1,High,Kolkata,2024-08-05
+R01702,Jehangir Hospital,A-,1,High,Surat,2024-11-15
+R01703,Lilavati Hospital,A+,1,Low,Ahmedabad,2023-08-30
+R01704,Wockhardt,B+,1,Medium,Surat,2024-02-03
+R01705,Jehangir Hospital,A+,4,Critical,Indore,2024-07-03
+R01706,Lilavati Hospital,A-,5,Low,Delhi,2024-02-14
+R01707,Amrita Institute of Medical Sciences,B+,3,Medium,Delhi,2023-07-28
+R01708,KEM Hospital,B+,2,Critical,Delhi,2024-12-17
+R01709,Narayana Health,O+,4,Medium,Delhi,2024-12-24
+R01710,Apollo Hospital,B+,3,Low,Kanpur,2023-01-09
+R01711,Christian Medical College,B+,1,Medium,Agra,2024-12-04
+R01712,Apollo Hospital,O+,5,Critical,Bangalore,2023-11-17
+R01713,Deenanath Mangeshkar,A+,3,High,Bangalore,2024-05-30
+R01714,Narayana Health,B+,6,High,Jaipur,2023-08-20
+R01715,Christian Medical College,O+,2,Medium,Udaipur,2024-09-25
+R01716,Amrita Institute of Medical Sciences,O+,3,Medium,Kolkata,2024-08-10
+R01717,Narayana Health,A+,5,High,Delhi,2024-03-15
+R01718,Lilavati Hospital,O+,1,Critical,Surat,2023-11-28
+R01719,Wockhardt,A+,3,Low,Delhi,2024-04-16
+R01720,Rajiv Gandhi Government Hospital,B+,4,Medium,Kolkata,2024-09-18
+R01721,Fortis Healthcare,A+,5,Critical,Surat,2024-07-04
+R01722,Amrita Institute of Medical Sciences,O+,3,Critical,Hyderabad,2024-01-22
+R01723,Manipal Hospital,O+,4,Low,Chennai,2023-03-14
+R01724,Apollo Hospital,O+,2,Low,Kolkata,2023-02-25
+R01725,Wockhardt,O+,2,Low,Agra,2023-12-23
+R01726,Medanta,A+,4,Low,Ludhiana,2024-08-22
+R01727,Aster CMI,B+,1,High,Bangalore,2024-03-22
+R01728,Amrita Institute of Medical Sciences,O+,2,Medium,Mumbai,2024-07-02
+R01729,Christian Medical College,O+,2,Critical,Delhi,2024-08-08
+R01730,Sir Ganga Ram Hospital,B-,5,High,Chennai,2023-07-23
+R01731,Christian Medical College,B+,5,Medium,Mumbai,2023-12-01
+R01732,Amrita Institute of Medical Sciences,AB-,2,Critical,Hyderabad,2024-03-21
+R01733,Jehangir Hospital,O+,5,Medium,Visakhapatnam,2023-08-02
+R01734,Narayana Health,A+,1,Low,Mumbai,2024-05-11
+R01735,Apollo Hospital,A+,3,Medium,Lucknow,2023-07-15
+R01736,AIIMS,O+,2,Critical,Jaipur,2023-05-29
+R01737,Christian Medical College,O-,3,Medium,Chennai,2024-06-15
+R01738,Lilavati Hospital,A+,1,Medium,Pune,2024-08-13
+R01739,AIIMS,A+,2,Critical,Pune,2023-05-28
+R01740,Max Super Speciality,A+,3,Critical,Ahmedabad,2023-07-14
+R01741,Wockhardt,A+,3,Medium,Ahmedabad,2024-07-13
+R01742,AIIMS,A-,2,High,Chennai,2024-07-18
+R01743,Safdarjung Hospital,AB+,5,Low,Coimbatore,2023-09-05
+R01744,Amrita Institute of Medical Sciences,A-,4,Low,Hyderabad,2023-03-13
+R01745,Wockhardt,O+,2,Medium,Lucknow,2024-12-04
+R01746,Ruby Hall Clinic,A+,1,Critical,Kolkata,2024-02-13
+R01747,Ruby Hall Clinic,O+,6,Medium,Thane,2024-01-16
+R01748,Max Super Speciality,A-,2,Low,Udaipur,2024-02-05
+R01749,Lilavati Hospital,O+,5,Critical,Delhi,2024-11-19
+R01750,Jehangir Hospital,B+,4,Low,Ahmedabad,2024-01-21
+R01751,Amrita Institute of Medical Sciences,A+,1,Medium,Bhopal,2023-12-24
+R01752,Jehangir Hospital,B+,2,Medium,Hyderabad,2024-04-13
+R01753,Christian Medical College,O+,3,High,Pune,2024-05-02
+R01754,Kokilaben Dhirubhai Ambani,AB+,1,High,Mumbai,2024-05-14
+R01755,Sir Ganga Ram Hospital,AB+,2,High,Pune,2024-12-22
+R01756,Ruby Hall Clinic,O+,4,Critical,Surat,2024-08-03
+R01757,Kokilaben Dhirubhai Ambani,A+,2,Low,Delhi,2024-03-08
+R01758,Lilavati Hospital,B+,1,Critical,Indore,2023-09-15
+R01759,Jehangir Hospital,B-,3,Medium,Bhopal,2023-05-14
+R01760,Safdarjung Hospital,B+,1,High,Delhi,2023-07-16
+R01761,Safdarjung Hospital,A+,1,Low,Visakhapatnam,2024-09-18
+R01762,Safdarjung Hospital,A+,5,Medium,Ahmedabad,2024-05-17
+R01763,Medanta,B+,2,High,Delhi,2023-07-20
+R01764,Ruby Hall Clinic,B+,6,Low,Delhi,2023-11-24
+R01765,Aster CMI,O+,5,Critical,Ahmedabad,2023-02-04
+R01766,Christian Medical College,B+,3,Low,Mumbai,2024-07-23
+R01767,Aster CMI,A+,2,High,Kanpur,2023-04-29
+R01768,Kokilaben Dhirubhai Ambani,O+,1,Medium,Vadodara,2023-11-18
+R01769,Deenanath Mangeshkar,O+,2,Medium,Surat,2023-12-08
+R01770,Kokilaben Dhirubhai Ambani,B+,3,Medium,Mumbai,2024-09-27
+R01771,KEM Hospital,A-,5,Critical,Mumbai,2024-06-27
+R01772,Narayana Health,O+,2,High,Surat,2023-04-27
+R01773,Kokilaben Dhirubhai Ambani,AB-,1,Critical,Vadodara,2023-12-16
+R01774,Jehangir Hospital,O+,4,Low,Mumbai,2024-01-08
+R01775,Narayana Health,B-,4,High,Ahmedabad,2024-01-06
+R01776,Ruby Hall Clinic,O+,1,Low,Hyderabad,2024-10-11
+R01777,Amrita Institute of Medical Sciences,B+,5,Medium,Kolkata,2024-09-10
+R01778,Narayana Health,O+,5,Medium,Mumbai,2023-10-10
+R01779,Jehangir Hospital,O+,1,High,Bangalore,2023-04-15
+R01780,Amrita Institute of Medical Sciences,B+,3,Medium,Rajkot,2023-11-14
+R01781,Safdarjung Hospital,B+,2,High,Ahmedabad,2023-06-14
+R01782,Wockhardt,B-,4,High,Kanpur,2023-03-03
+R01783,AIIMS,A+,3,High,Surat,2023-07-24
+R01784,Apollo Hospital,O+,1,Medium,Chennai,2024-03-30
+R01785,Christian Medical College,A-,4,High,Chennai,2024-04-12
+R01786,Max Super Speciality,A+,2,High,Nagpur,2024-09-27
+R01787,Safdarjung Hospital,O-,1,High,Jaipur,2024-02-22
+R01788,Kokilaben Dhirubhai Ambani,B+,3,Critical,Kolkata,2024-06-19
+R01789,Rajiv Gandhi Government Hospital,O+,2,Medium,Lucknow,2024-12-13
+R01790,Sir Ganga Ram Hospital,A-,3,High,Hyderabad,2024-04-07
+R01791,Wockhardt,A+,2,High,Lucknow,2024-05-13
+R01792,Ruby Hall Clinic,O+,1,Low,Jaipur,2023-02-26
+R01793,Max Super Speciality,A+,1,Critical,Nagpur,2023-12-03
+R01794,Christian Medical College,B+,5,Medium,Hyderabad,2023-03-21
+R01795,KEM Hospital,B+,6,High,Bangalore,2023-05-13
+R01796,AIIMS,A+,3,Critical,Pune,2024-03-12
+R01797,Amrita Institute of Medical Sciences,O+,5,High,Bhopal,2023-09-15
+R01798,Wockhardt,O-,4,Critical,Hyderabad,2024-05-19
+R01799,Kokilaben Dhirubhai Ambani,B+,2,Medium,Bhopal,2023-04-08
+R01800,Wockhardt,O+,5,High,Ahmedabad,2023-03-20
+R01801,Kokilaben Dhirubhai Ambani,O+,1,Medium,Chennai,2024-06-14
+R01802,KEM Hospital,A+,1,Medium,Delhi,2024-05-18
+R01803,Max Super Speciality,B-,3,High,Kolkata,2024-05-08
+R01804,Max Super Speciality,B+,2,Low,Hyderabad,2024-01-03
+R01805,Safdarjung Hospital,B+,2,High,Lucknow,2023-07-13
+R01806,Medanta,O-,3,High,Pune,2024-04-23
+R01807,Safdarjung Hospital,O+,2,Low,Mumbai,2023-02-20
+R01808,Narayana Health,A+,2,Low,Kolkata,2024-07-07
+R01809,Apollo Hospital,O-,4,Medium,Kanpur,2024-10-29
+R01810,Ruby Hall Clinic,A+,2,High,Chennai,2023-11-16
+R01811,Apollo Hospital,O+,2,Medium,Bangalore,2024-01-22
+R01812,KEM Hospital,AB+,1,Medium,Delhi,2023-02-18
+R01813,Rajiv Gandhi Government Hospital,A+,3,High,Bangalore,2023-07-01
+R01814,Medanta,A+,1,Medium,Kanpur,2024-04-12
+R01815,Fortis Healthcare,B+,2,High,Bangalore,2023-11-28
+R01816,Aster CMI,B+,3,High,Ludhiana,2023-02-15
+R01817,Medanta,A+,2,Low,Bangalore,2023-05-25
+R01818,Fortis Healthcare,A+,6,Low,Agra,2023-07-30
+R01819,Deenanath Mangeshkar,A+,5,Medium,Hyderabad,2024-07-30
+R01820,Wockhardt,A+,4,Medium,Visakhapatnam,2024-11-24
+R01821,Ruby Hall Clinic,B+,4,Medium,Hyderabad,2024-10-10
+R01822,Medanta,AB+,2,Low,Jaipur,2024-04-14
+R01823,Lilavati Hospital,A+,1,Low,Kanpur,2024-11-01
+R01824,Amrita Institute of Medical Sciences,O+,4,Medium,Bangalore,2024-09-14
+R01825,Medanta,B+,3,Low,Chennai,2023-02-20
+R01826,Fortis Healthcare,A+,2,Medium,Vadodara,2023-02-11
+R01827,Sir Ganga Ram Hospital,AB-,2,High,Lucknow,2023-06-21
+R01828,Sir Ganga Ram Hospital,AB+,2,Medium,Visakhapatnam,2024-09-22
+R01829,Christian Medical College,A-,1,High,Ludhiana,2024-07-29
+R01830,Aster CMI,A-,1,High,Lucknow,2024-05-12
+R01831,Aster CMI,B+,1,Medium,Chennai,2024-01-11
+R01832,Aster CMI,B+,6,High,Indore,2024-09-24
+R01833,Wockhardt,B+,4,Critical,Delhi,2024-03-09
+R01834,Manipal Hospital,A+,3,High,Mumbai,2023-06-21
+R01835,Rajiv Gandhi Government Hospital,O+,2,High,Lucknow,2024-06-12
+R01836,AIIMS,O+,2,Medium,Indore,2023-07-02
+R01837,Aster CMI,O+,4,Medium,Bangalore,2023-10-23
+R01838,Lilavati Hospital,B+,3,Low,Pune,2024-10-05
+R01839,Wockhardt,B-,1,Low,Coimbatore,2023-05-11
+R01840,Aster CMI,AB+,3,Low,Bangalore,2023-07-16
+R01841,AIIMS,O-,2,Medium,Hyderabad,2023-12-27
+R01842,Jehangir Hospital,B+,6,Medium,Bangalore,2023-01-22
+R01843,Kokilaben Dhirubhai Ambani,O+,2,Low,Lucknow,2023-06-05
+R01844,Apollo Hospital,B+,2,Medium,Chennai,2023-04-18
+R01845,Medanta,O+,1,Critical,Mumbai,2023-01-21
+R01846,Max Super Speciality,B-,1,Low,Delhi,2024-01-08
+R01847,Sir Ganga Ram Hospital,B+,1,High,Ahmedabad,2023-05-20
+R01848,Medanta,A+,2,High,Bangalore,2023-05-10
+R01849,Max Super Speciality,O+,2,High,Delhi,2023-05-11
+R01850,Fortis Healthcare,A+,2,Critical,Agra,2024-10-23
+R01851,Rajiv Gandhi Government Hospital,B+,3,Low,Jaipur,2024-03-27
+R01852,Max Super Speciality,O-,3,Medium,Indore,2024-11-26
+R01853,Narayana Health,A+,1,Low,Mumbai,2024-07-03
+R01854,Wockhardt,B+,4,High,Kanpur,2023-12-12
+R01855,Christian Medical College,A+,3,Critical,Surat,2024-02-01
+R01856,AIIMS,O+,3,High,Vadodara,2024-03-31
+R01857,Narayana Health,B-,2,Critical,Delhi,2023-12-29
+R01858,Jehangir Hospital,O+,3,High,Coimbatore,2024-04-25
+R01859,Aster CMI,O+,2,Critical,Ahmedabad,2023-08-09
+R01860,Amrita Institute of Medical Sciences,A+,4,Medium,Surat,2024-09-29
+R01861,Wockhardt,O-,1,Medium,Kolkata,2024-09-06
+R01862,Christian Medical College,O+,3,Medium,Chennai,2024-02-06
+R01863,Max Super Speciality,O-,5,Medium,Surat,2024-08-06
+R01864,Deenanath Mangeshkar,O-,2,Critical,Bangalore,2024-11-29
+R01865,Apollo Hospital,AB-,1,High,Bangalore,2024-09-04
+R01866,KEM Hospital,A+,4,Low,Ahmedabad,2023-12-01
+R01867,Aster CMI,O+,1,High,Agra,2023-08-04
+R01868,Amrita Institute of Medical Sciences,A+,2,Low,Chennai,2024-08-30
+R01869,Wockhardt,O+,4,Low,Kolkata,2024-06-29
+R01870,Medanta,A+,5,Critical,Bangalore,2024-01-30
+R01871,Narayana Health,B+,3,High,Surat,2023-03-28
+R01872,Wockhardt,O+,3,High,Chennai,2024-02-17
+R01873,Deenanath Mangeshkar,A+,2,Medium,Delhi,2023-12-29
+R01874,Manipal Hospital,O+,2,Medium,Ludhiana,2024-11-08
+R01875,Christian Medical College,O+,4,Medium,Mumbai,2024-07-12
+R01876,KEM Hospital,AB+,2,High,Jaipur,2023-12-06
+R01877,Kokilaben Dhirubhai Ambani,A+,4,High,Delhi,2024-08-03
+R01878,Jehangir Hospital,B+,1,Critical,Mumbai,2024-07-15
+R01879,KEM Hospital,A+,1,Critical,Coimbatore,2024-10-01
+R01880,Christian Medical College,AB-,1,Critical,Bangalore,2024-09-25
+R01881,Apollo Hospital,O+,2,Critical,Coimbatore,2023-10-26
+R01882,Lilavati Hospital,O+,3,Medium,Hyderabad,2024-12-21
+R01883,Ruby Hall Clinic,A+,5,Medium,Bangalore,2024-09-07
+R01884,Jehangir Hospital,O+,2,Critical,Bangalore,2023-06-25
+R01885,Christian Medical College,O+,3,High,Surat,2024-12-17
+R01886,Apollo Hospital,AB+,4,Critical,Hyderabad,2024-02-12
+R01887,Narayana Health,O-,3,High,Mumbai,2024-04-09
+R01888,Ruby Hall Clinic,A+,2,High,Ahmedabad,2024-08-07
+R01889,KEM Hospital,B+,4,Critical,Lucknow,2024-03-18
+R01890,Medanta,AB-,1,Medium,Mumbai,2023-04-15
+R01891,Medanta,B+,4,Medium,Indore,2023-09-23
+R01892,Apollo Hospital,B+,3,Low,Jaipur,2023-06-15
+R01893,Lilavati Hospital,A+,2,Low,Jaipur,2024-03-21
+R01894,AIIMS,O+,1,High,Bhopal,2024-09-29
+R01895,Manipal Hospital,A+,3,High,Bangalore,2023-02-26
+R01896,Apollo Hospital,B+,2,Critical,Delhi,2024-04-30
+R01897,Wockhardt,A+,3,High,Agra,2024-05-05
+R01898,Manipal Hospital,B+,1,Critical,Ahmedabad,2024-05-19
+R01899,Sir Ganga Ram Hospital,A+,5,High,Bangalore,2023-01-08
+R01900,Kokilaben Dhirubhai Ambani,B-,2,High,Nashik,2024-03-01
+R01901,AIIMS,A+,5,High,Agra,2023-08-30
+R01902,Narayana Health,B+,6,Medium,Jaipur,2024-09-16
+R01903,Jehangir Hospital,A+,1,High,Surat,2024-02-27
+R01904,Apollo Hospital,A+,6,Medium,Vadodara,2024-09-21
+R01905,Max Super Speciality,B+,1,High,Lucknow,2024-08-05
+R01906,Ruby Hall Clinic,B+,2,Critical,Ahmedabad,2024-12-27
+R01907,Sir Ganga Ram Hospital,B+,2,Medium,Ahmedabad,2024-12-23
+R01908,Manipal Hospital,A+,1,Low,Hyderabad,2024-06-11
+R01909,Aster CMI,O+,3,Low,Surat,2024-06-07
+R01910,Sir Ganga Ram Hospital,O+,3,Medium,Jaipur,2024-08-04
+R01911,Aster CMI,O-,2,Low,Ahmedabad,2024-04-12
+R01912,Amrita Institute of Medical Sciences,A+,2,Low,Bangalore,2024-11-16
+R01913,Narayana Health,A+,1,High,Ahmedabad,2024-03-19
+R01914,AIIMS,O+,2,Critical,Surat,2024-10-18
+R01915,Sir Ganga Ram Hospital,O-,1,Low,Hyderabad,2024-05-30
+R01916,Sir Ganga Ram Hospital,A+,1,Medium,Vadodara,2024-02-14
+R01917,Max Super Speciality,AB-,2,Low,Coimbatore,2024-08-07
+R01918,Ruby Hall Clinic,A+,1,Low,Surat,2024-09-11
+R01919,AIIMS,A+,1,Low,Nashik,2023-06-06
+R01920,Narayana Health,A+,1,Medium,Nashik,2023-11-17
+R01921,Amrita Institute of Medical Sciences,O+,6,Medium,Kolkata,2024-05-07
+R01922,Ruby Hall Clinic,B+,3,High,Hyderabad,2023-07-10
+R01923,Lilavati Hospital,O+,1,Critical,Delhi,2023-04-02
+R01924,Manipal Hospital,B-,4,Low,Jaipur,2024-07-17
+R01925,Rajiv Gandhi Government Hospital,AB+,1,Medium,Mumbai,2024-03-03
+R01926,Amrita Institute of Medical Sciences,O+,1,Medium,Mumbai,2023-10-17
+R01927,Jehangir Hospital,O+,6,Low,Delhi,2023-12-30
+R01928,Narayana Health,O+,3,High,Nagpur,2024-07-11
+R01929,KEM Hospital,B+,5,Low,Surat,2024-03-04
+R01930,Ruby Hall Clinic,B+,1,Medium,Coimbatore,2023-11-17
+R01931,Ruby Hall Clinic,B-,1,Low,Indore,2024-01-25
+R01932,Medanta,AB+,3,Low,Jaipur,2023-07-14
+R01933,KEM Hospital,AB+,2,Low,Chennai,2024-07-14
+R01934,Lilavati Hospital,A+,2,Medium,Chennai,2023-02-26
+R01935,AIIMS,O+,1,Critical,Kolkata,2023-03-14
+R01936,Manipal Hospital,O+,5,Low,Bangalore,2024-10-27
+R01937,Christian Medical College,O-,4,Medium,Lucknow,2024-10-15
+R01938,Christian Medical College,O+,3,Low,Bhopal,2023-05-23
+R01939,Fortis Healthcare,A+,4,High,Mumbai,2023-07-21
+R01940,Christian Medical College,A+,2,Medium,Nagpur,2023-08-18
+R01941,Amrita Institute of Medical Sciences,O+,3,Medium,Mumbai,2023-09-04
+R01942,Deenanath Mangeshkar,O+,3,High,Chennai,2024-07-08
+R01943,Safdarjung Hospital,B+,4,High,Udaipur,2024-03-24
+R01944,Medanta,B-,1,Medium,Mumbai,2023-10-28
+R01945,Aster CMI,O+,1,High,Bhopal,2024-02-22
+R01946,Deenanath Mangeshkar,B+,2,Critical,Bangalore,2023-12-13
+R01947,KEM Hospital,O+,1,Medium,Ahmedabad,2024-01-27
+R01948,Christian Medical College,B-,3,Critical,Rajkot,2023-11-02
+R01949,Medanta,B+,4,Medium,Kolkata,2023-02-21
+R01950,KEM Hospital,A+,2,Low,Mumbai,2023-01-05
+R01951,AIIMS,A+,3,Medium,Bangalore,2023-10-24
+R01952,Deenanath Mangeshkar,A+,3,High,Indore,2024-10-10
+R01953,Deenanath Mangeshkar,AB+,4,High,Delhi,2023-01-02
+R01954,Narayana Health,A+,1,Low,Coimbatore,2023-10-17
+R01955,Medanta,O+,3,Low,Chennai,2024-08-27
+R01956,Kokilaben Dhirubhai Ambani,A+,6,Medium,Coimbatore,2024-06-16
+R01957,AIIMS,A+,3,Medium,Indore,2024-02-24
+R01958,Kokilaben Dhirubhai Ambani,O-,4,Medium,Rajkot,2023-07-03
+R01959,Jehangir Hospital,B+,1,High,Kolkata,2023-04-28
+R01960,Rajiv Gandhi Government Hospital,B+,3,High,Mumbai,2023-11-24
+R01961,Medanta,B+,2,Medium,Mumbai,2023-06-12
+R01962,Manipal Hospital,A+,2,Low,Jaipur,2023-12-01
+R01963,Jehangir Hospital,B+,1,Medium,Pune,2023-03-27
+R01964,Narayana Health,O+,4,High,Mumbai,2024-02-26
+R01965,Rajiv Gandhi Government Hospital,O+,1,High,Chennai,2023-10-09
+R01966,Fortis Healthcare,AB+,5,Low,Surat,2023-04-13
+R01967,Aster CMI,O+,3,Low,Lucknow,2024-06-17
+R01968,Fortis Healthcare,B+,1,High,Pune,2023-05-04
+R01969,Lilavati Hospital,O+,5,Medium,Delhi,2024-01-15
+R01970,KEM Hospital,B+,3,Critical,Jaipur,2023-06-16
+R01971,Manipal Hospital,A+,3,High,Bangalore,2023-04-27
+R01972,Ruby Hall Clinic,A+,2,Critical,Bangalore,2024-05-22
+R01973,Deenanath Mangeshkar,B-,2,Medium,Mumbai,2023-07-04
+R01974,Deenanath Mangeshkar,O+,6,Medium,Pune,2024-06-08
+R01975,Lilavati Hospital,A+,2,Medium,Visakhapatnam,2024-06-28
+R01976,Apollo Hospital,A+,3,Medium,Chennai,2023-04-01
+R01977,Safdarjung Hospital,B+,1,Low,Kanpur,2023-01-02
+R01978,AIIMS,A+,3,Low,Delhi,2023-04-27
+R01979,Narayana Health,AB+,3,Critical,Delhi,2023-04-05
+R01980,Deenanath Mangeshkar,B+,2,Medium,Indore,2024-08-03
+R01981,Lilavati Hospital,B+,2,Low,Delhi,2024-02-27
+R01982,Christian Medical College,O+,2,Medium,Nagpur,2023-04-04
+R01983,Wockhardt,A+,1,High,Nagpur,2023-10-11
+R01984,Sir Ganga Ram Hospital,A+,3,High,Jaipur,2023-03-30
+R01985,AIIMS,B+,2,High,Chennai,2024-02-04
+R01986,Safdarjung Hospital,B+,3,Low,Ludhiana,2024-02-16
+R01987,Manipal Hospital,O+,4,Low,Hyderabad,2024-11-21
+R01988,KEM Hospital,B+,2,Medium,Ludhiana,2023-05-10
+R01989,Safdarjung Hospital,A+,2,High,Bhopal,2023-04-19
+R01990,Kokilaben Dhirubhai Ambani,O+,1,High,Delhi,2023-09-18
+R01991,Deenanath Mangeshkar,O+,1,Medium,Delhi,2024-05-25
+R01992,Ruby Hall Clinic,B+,1,Medium,Indore,2023-07-20
+R01993,Kokilaben Dhirubhai Ambani,B+,3,Low,Jaipur,2024-11-07
+R01994,Medanta,B+,4,Critical,Nashik,2024-12-18
+R01995,Ruby Hall Clinic,A+,2,Low,Lucknow,2023-02-27
+R01996,Manipal Hospital,A+,1,Medium,Ludhiana,2024-03-24
+R01997,Wockhardt,B-,2,High,Ahmedabad,2023-08-09
+R01998,Narayana Health,O+,2,Medium,Kanpur,2023-02-22
+R01999,Medanta,O+,4,High,Ludhiana,2023-04-01
+R02000,Kokilaben Dhirubhai Ambani,B+,1,High,Coimbatore,2024-12-10
